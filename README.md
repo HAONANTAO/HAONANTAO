@@ -25,7 +25,8 @@ I am interested in front-end development, web development, User interaction, etc
 
 ![](https://metrics.lecoq.io/insights/HAONANTAO)
 
-[![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]
+<!-- [![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]-->
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
