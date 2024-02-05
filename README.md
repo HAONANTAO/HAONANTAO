@@ -23,8 +23,9 @@ I am interested in front-end development, web development, User interaction, etc
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 
 
-![Metrics](https://metrics.lecoq.io/insights/HAONANTAO)
+![](https://metrics.lecoq.io/insights/HAONANTAO)
 
 [![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
