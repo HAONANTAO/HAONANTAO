@@ -13,13 +13,13 @@ I am interested in front-end development, web development, User interaction, etc
 ![React](https://img.shields.io/badge/react-blue?style=plastic)
 ![NodeJS](https://img.shields.io/badge/NodeJS-blue?style=plastic)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=plastic)
+![NextJs](https://img.shields.io/badge/NextJs-blue?style=plastic)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=plastic)
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
 
 - 🌱 I’m currently learning TypeScript, NextJs, TailwindCSS, Docker, AWS...
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
-![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=plastic)
-![NextJs](https://img.shields.io/badge/NextJs-yellow?style=plastic)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 
 
