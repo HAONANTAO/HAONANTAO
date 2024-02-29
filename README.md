@@ -18,7 +18,7 @@ I am interested in front-end development, web development, User interaction, etc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=plastic)
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
 
-- 🌱 I’m currently learning TypeScript, NextJs, TailwindCSS, Docker, AWS...
+- 🌱 I’m currently learning  Docker, AWS...
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 
