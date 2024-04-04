@@ -30,3 +30,6 @@ I am interested in front-end development, web development, User interaction, etc
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
