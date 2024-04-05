@@ -22,7 +22,6 @@ I am interested in front-end development, web development, User interaction, etc
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 
-
 ![](https://metrics.lecoq.io/insights/HAONANTAO)
 
 <!-- [![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]-->
@@ -33,8 +32,22 @@ I am interested in front-end development, web development, User interaction, etc
     <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true" height="300"/>
   </p>
 </details>
+<hr/>
+<details>
+  <summary>Most Used Lanuages</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=donut-vertical" height="300"/>
+  </p>
+</details>
+<hr/>
+<details>
+  <summary>Most Used Lanuages</summary>
+  <p align="center">
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=donut-vertical](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)" height="400"/>
+  </p>
+</details>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
+[![Ashutosh's github activity graph]()]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
