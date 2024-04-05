@@ -40,13 +40,8 @@ I am interested in front-end development, web development, User interaction, etc
   </p>
 </details>
 <hr/>
-<details>
-  <summary>Graph Show</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=donut-vertical](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night" height="400"/>
-  </p>
-</details>
 
+[![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
 
 
 <!--START_SECTION:waka-->
