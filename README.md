@@ -47,7 +47,7 @@ I am interested in front-end development, web development, User interaction, etc
   </p>
 </details>
 
-[![Ashutosh's github activity graph]()]
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
