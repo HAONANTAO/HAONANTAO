@@ -41,9 +41,9 @@ I am interested in front-end development, web development, User interaction, etc
 </details>
 <hr/>
 <details>
-  <summary>Most Used Lanuages</summary>
+  <summary>Graph Show</summary>
   <p align="center">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=donut-vertical](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=donut-vertical](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night" height="400"/>
   </p>
 </details>
 
