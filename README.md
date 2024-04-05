@@ -18,7 +18,7 @@ I am interested in front-end development, web development, User interaction, etc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=plastic)
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
 
-- 🌱 I’m currently learning  Docker, AWS...
+- 🌱 I’m currently learning Docker, AWS,CICD and testing ...
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 
@@ -27,7 +27,12 @@ I am interested in front-end development, web development, User interaction, etc
 
 <!-- [![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]-->
 
-
+<details>
+  <summary>Github statistics</summary>
+  <p align="center">
+    <img src="(https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true)/>
+  </p>
+</details>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
 
