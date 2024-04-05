@@ -46,6 +46,77 @@ Portfolio: https://www.aarontao.com/
 <hr/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 746.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌆 Daytime                444 commits         ███████████░░░░░░░░░░░░░░   45.49 % 
+🌃 Evening                413 commits         ███████████░░░░░░░░░░░░░░   42.32 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                248 commits         ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Thursday                 193 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Melbourne
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ███████████████░░░░░░░░░░   61.90 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/04/2024 07:38:29 UTC
 <!--END_SECTION:waka-->
 <details>
   <summary>Waka Time</summary>
