@@ -1,9 +1,11 @@
 ### Hi,this is HAONAN(Aaron) TAO. Full-Stack Developer👋
 
 - 🔭 I graduated from Unimelb with a Master's in IT and Monash with a bachelor's in computer science
-
-- 💬 The language I use most often is javascript.
 I am interested in front-end development, web development, User interaction, etc., and want to learn more in my spare time.
+Portfolio: https://www.aarontao.com/
+
+- 💬Currently Looking for any jov oppotunity as Developer In Melbourne!
+
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -16,6 +18,8 @@ I am interested in front-end development, web development, User interaction, etc
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=plastic)
 ![NextJs](https://img.shields.io/badge/NextJs-blue?style=plastic)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=plastic)
+
+
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
 
 - 🌱 I’m currently learning Docker, AWS,CICD and testing ...
@@ -41,8 +45,16 @@ I am interested in front-end development, web development, User interaction, etc
 </details>
 <hr/>
 
-[![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)]
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<details>
+  <summary>Waka Time</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@018ea932-6f86-4d97-883a-c1c0c67db2b4/565577e0-35be-42cd-a814-f517fbf30ec2.svg"height="300"/>
+  </p>
+</details>
+
+
+![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
+
+
