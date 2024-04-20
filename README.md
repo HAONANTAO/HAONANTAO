@@ -117,10 +117,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
-
 
  Last Updated on 19/04/2024 18:32:54 UTC
 <!--END_SECTION:waka-->
