@@ -7,9 +7,9 @@ Demonstrated expertise in working within an agile development environment.
 Adept at maintaining a stable performance and swiftly adapting to evolving technical environments.
 Permanent resident with full work right in Australia
 <hr/>
-Portfolio: https://www.aarontao.com/
+Portfolio: https://www.aarontao.com/<hr/>
 Blog:https://www.aaronblog.top/
-
+/<hr/>
 - 💬Currently Looking for any jov oppotunity as Developer In Melbourne!
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
 - 🌱 I’m currently learning Docker, AWS,CICD and testing ...
