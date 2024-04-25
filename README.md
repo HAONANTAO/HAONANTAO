@@ -1,9 +1,14 @@
 ### Hi,this is HAONAN(Aaron) TAO. Full-Stack Developer👋
 
 - 🔭 I graduated from Unimelb with a Master's in IT and Monash with a bachelor's in computer science
-I am interested in front-end development, web development, User interaction, etc., and want to learn more in my spare time.
+Highly skilled software developer with a solid foundation in frontend  and backend development. Proficient in building web application using HTML5, CSS3, JavaScript, Typescript, React, Node.js and MongoDB
+Experienced with AWS cloud and CI/CD pipelines.
+Demonstrated expertise in working within an agile development environment.
+Adept at maintaining a stable performance and swiftly adapting to evolving technical environments.
+Permanent resident with full work right in Australia
 <hr/>
 Portfolio: https://www.aarontao.com/
+Blog:https://www.aaronblog.top/
 
 - 💬Currently Looking for any jov oppotunity as Developer In Melbourne!
 - 📫 How to reach me:  0412218510   taoaaron5@gmail.com
