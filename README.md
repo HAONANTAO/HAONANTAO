@@ -50,15 +50,13 @@ Blog:https://www.aaronblog.top/
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 808.4 kB Used in GitHub's Storage 
- > 
-> 🏆 469 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,17 +91,17 @@ Sunday                   71 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ███████████████████████░░   93.91 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+TypeScript               1 hr 37 mins        ███████████████████████░░   92.62 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-commerce               2 hrs 18 mins       █████████████████████████   100.00 % 
+e-commerce               1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +121,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 18:38:19 UTC
+ Last Updated on 04/06/2024 18:36:51 UTC
 <!--END_SECTION:waka-->
 
 
