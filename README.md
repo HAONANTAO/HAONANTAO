@@ -50,13 +50,15 @@ Blog:https://www.aaronblog.top/
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 808.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 471 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,7 +122,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:37:12 UTC
+ Last Updated on 11/06/2024 18:38:04 UTC
 <!--END_SECTION:waka-->
 
 
