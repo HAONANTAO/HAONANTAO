@@ -58,8 +58,6 @@ Blog:https://www.aaronblog.top/
 
 > 📦 808.5 kB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -122,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2024 18:35:21 UTC
+ Last Updated on 30/06/2024 18:36:58 UTC
 <!--END_SECTION:waka-->
 
 
