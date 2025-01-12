@@ -1,22 +1,23 @@
-### Hi,this is HAONAN(Aaron) TAO. Full-Stack Developer👋
+### Hi, this is HAONAN(Aaron) TAO. Full-Stack Developer👋
+🔭 I graduated from Unimelb with a Master's in IT and Monash with a bachelor's in computer science. A highly skilled software developer with a rock-solid foundation in both frontend and backend development. I'm proficient in crafting web applications using HTML5, CSS3, JavaScript, TypeScript, React, Node.js, and MongoDB. With hands-on experience in the AWS cloud and CI/CD pipelines, I've also demonstrated my ability to thrive in an agile development setting, maintaining top-notch performance while quickly adapting to ever-changing tech landscapes. As a permanent resident, I hold full work rights in Australia.
 
-- 🔭 I graduated from Unimelb with a Master's in IT and Monash with a bachelor's in computer science
-Highly skilled software developer with a solid foundation in frontend  and backend development. Proficient in building web application using HTML5, CSS3, JavaScript, Typescript, React, Node.js and MongoDB
-Experienced with AWS cloud and CI/CD pipelines.
-Demonstrated expertise in working within an agile development environment.
-Adept at maintaining a stable performance and swiftly adapting to evolving technical environments.
-Permanent resident with full work right in Australia
+
 <hr/>
 Portfolio: https://www.aarontao.com/
 <br/>
 Blog:https://www.aaronblog.top/
 
-- 💬Currently Looking for any jov oppotunity as Developer In Melbourne!
-- 📫 How to reach me:  0412218510   taoaaron5@gmail.com
-- 🌱 I’m currently learning Docker, AWS,CICD and testing ...
+💬 Currently on the hunt for exciting job opportunities as a Developer in Melbourne!
+📫 Reach out to me at: 0412218510 or taoaaron5@gmail.com
+🌱 I’m currently diving into Docker, AWS, CI/CD, and testing...
+
+image
+
+image
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 ![](https://metrics.lecoq.io/insights/HAONANTAO)
+
 <hr/>
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
