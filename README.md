@@ -11,9 +11,7 @@ Blog:https://www.aaronblog.top/
 📫 Reach out to me at: 0412218510 or taoaaron5@gmail.com
 🌱 I’m currently diving into Docker, AWS, CI/CD, and testing...
 
-image
-
-image
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 ![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
 ![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
 ![](https://metrics.lecoq.io/insights/HAONANTAO)
