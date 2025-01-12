@@ -1,34 +1,41 @@
-### Hi, this is HAONAN(Aaron) TAO. Full-Stack Developer👋
-🔭 I graduated from Unimelb with a Master's in IT and Monash with a bachelor's in computer science. A highly skilled software developer with a rock-solid foundation in both frontend and backend development. I'm proficient in crafting web applications using HTML5, CSS3, JavaScript, TypeScript, React, Node.js, and MongoDB. With hands-on experience in the AWS cloud and CI/CD pipelines, I've also demonstrated my ability to thrive in an agile development setting, maintaining top-notch performance while quickly adapting to ever-changing tech landscapes. As a permanent resident, I hold full work rights in Australia.
+### Hi, this is HAONAN(Aaron) TAO. Full-Stack Developer👋![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 
+🔭 I hold a prestigious Master's degree in Information Technology from the University of Melbourne (Unimelb) and a solid Bachelor's in Computer Science from Monash University. These academic achievements have laid a robust foundation for my career as a full-stack developer.
+My technical proficiency is centered around the highly sought-after MERN stack. MongoDB serves as my go-to database, enabling seamless data storage, retrieval, and management for web applications. Paired with Express.js, a minimal and flexible Node.js web application framework, I can construct efficient and scalable backends. On the frontend, React empowers me to build interactive, responsive user interfaces that offer a top-notch user experience. And at the core, Node.js provides the server-side runtime, knitting together all components of the stack.
+Beyond the MERN stack, I'm also well-versed in other essential web technologies like HTML5, CSS3, JavaScript, and TypeScript. I've amassed hands-on experience with the AWS cloud and CI/CD pipelines, which has proven invaluable in agile development environments. This exposure has allowed me to maintain high performance while swiftly adapting to the ever-changing tech landscape.
+As a permanent resident, I have full work rights in Australia, and I'm currently on the lookout for thrilling development opportunities in Melbourne.
 
 <hr/>
 Portfolio: https://www.aarontao.com/
 <br/>
 Blog:https://www.aaronblog.top/
-
+<br/>
 💬 Currently on the hunt for exciting job opportunities as a Developer in Melbourne!
+<br/>
 📫 Reach out to me at: 0412218510 or taoaaron5@gmail.com
+<br/>
 🌱 I’m currently diving into Docker, AWS, CI/CD, and testing...
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 
 
 <hr/>
-![Docker](https://img.shields.io/badge/Docker-yellow?style=plastic)
-![AWSCloud](https://img.shields.io/badge/AWS-yellow?style=plastic)
-![](https://metrics.lecoq.io/insights/HAONANTAO)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JS](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=plastic)
-![Express](https://img.shields.io/badge/Express-blue?style=plastic)
-![React](https://img.shields.io/badge/react-blue?style=plastic)
-![NodeJS](https://img.shields.io/badge/NodeJS-blue?style=plastic)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=plastic)
-![NextJs](https://img.shields.io/badge/NextJs-blue?style=plastic)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=plastic)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&animation=glitch) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6&animation=glitch) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E&animation=glitch) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=4EA94B&animation=glitch) 
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000&animation=glitch) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB&animation=glitch) 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=339933&animation=glitch) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC&animation=glitch) 
+![NextJs](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=000000&animation=glitch) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=06B6D4&animation=glitch) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED&animation=glitch) 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=FF9900&animation=glitch) 
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white&labelColor=FD5750&animation=glitch) 
+![Testing](https://img.shields.io/badge/Testing-Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=C21325&animation=glitch) 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAONANTAO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 
 <!-- [![Aaron's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haonantao)]-->
