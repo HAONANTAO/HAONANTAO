@@ -54,10 +54,20 @@
 #### **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=tokyonight&langs_count=6&hide=css,html)  
 
-#### **GitHub Stats**  
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" />
+</div>
 
+### 🔥 Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HAONANTAO&theme=tokyonight&hide_border=true" alt="Aaron's GitHub Streak Stats" />
+</div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HAONANTAO&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
 ---
 
 💻 **Latest Repositories**  
