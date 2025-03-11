@@ -2,7 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 
 
-
 🚀 Passionate about building scalable and high-performance web applications. With a Master’s in Information Technology from the University of Melbourne and a Bachelor’s in Computer Science from Monash University, I have a strong foundation in modern web development.
 
 💻 My expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), allowing me to craft efficient backends and dynamic, responsive frontends. I'm also proficient in TypeScript, JavaScript, HTML5, CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
@@ -18,7 +17,7 @@
 🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing  
 
 <hr/>
-### 🚀 Tech Stack
+🚀 Tech Stack
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&animation=glitch) 
@@ -51,19 +50,13 @@
 #### **GitHub Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAONANTAO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
+<img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" />
+
+
 #### **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=tokyonight&langs_count=6&hide=css,html)  
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" />
-</div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HAONANTAO&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
----
 
 💻 **Latest Repositories**  
 [![Threads App](https://img.shields.io/badge/-Threads%20App-00b894?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)
