@@ -47,8 +47,6 @@
 
 ### 📊 GitHub Stats  
 
-#### **GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAONANTAO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
 <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" />
 
