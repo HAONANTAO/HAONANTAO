@@ -14,7 +14,7 @@
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!        
 📩 **Contact**: taoaaron5@gmail.com | 📞 0412 218 510  
 
-🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing  
+🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing | Mobile App
 
 <hr/>
 🚀 Tech Stack
