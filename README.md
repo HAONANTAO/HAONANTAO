@@ -59,9 +59,9 @@
 
 
 💻 **Latest Repositories**  
-[![Threads App](https://img.shields.io/badge/-Threads%20App-00b894?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)
-[![Mock AI ChatBot](https://img.shields.io/badge/-Mock%20AI%20ChatBot-00b894?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Mock_AI_ChatBot)
-[![MoneyRecorder](https://img.shields.io/badge/-Mock%20AI%20ChatBot-00b894?style=flat-square&logo=github&logoColor=white)]([https://github.com/HAONANTAO/Mock_AI_ChatBot](https://github.com/HAONANTAO/Money_Recorder))
+[![Threads App](https://img.shields.io/badge/-Threads%20App-00b894?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
+[![Mock AI ChatBot](https://img.shields.io/badge/-Mock%20AI%20ChatBot-ff7675?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Mock_AI_ChatBot)  
+[![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-0984e3?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
 
 ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
 
