@@ -2,9 +2,10 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # 每天 UTC 18:30 运行（即 IST 12:00）
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
