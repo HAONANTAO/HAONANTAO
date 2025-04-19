@@ -1,5 +1,6 @@
-## 👋 Hi, I'm HAONAN (Aaron) TAO!
+## 👋 Hi, I'm Aaron TAO!
 🚀 Full-Stack Developer | MERN | AWS | React Native
+💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 
@@ -12,14 +13,13 @@
 
 📝 **Portfolio**: [aarontao.com](https://www.aarontao.com/)            
 
-💼 **Looking for new opportunities** as a Developer in **Melbourne**!        
 📩 **Contact**: taoaaron5@gmail.com | 📞 0412 218 510  
 
-🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing | Mobile App
+🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing | ReactNative
 
 <hr/>
-🚀 Tech Stack
 
+🚀 Tech Stack
 #### **Frontend**  
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
