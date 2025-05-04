@@ -24,10 +24,10 @@
 
 🚀 Tech Stack
 #### **Frontend**  
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;gap: 6px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
@@ -45,13 +45,15 @@
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </div>
- **DevOps & Cloud**
+
+ DevOps & Cloud
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
 </div>
- **Testing & CI/CD**
+ 
+ Testing & CI/CD
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-0077B5?style=flat-square&logo=githubactions&logoColor=white" />
@@ -67,93 +69,20 @@
 
 💻 **Latest Repositories**  
 [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)
-[![Mock AI ChatBot](https://img.shields.io/badge/-Mock%20AI%20ChatBot-e74c3c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Mock_AI_ChatBot)
+[![E-Commerce](https://img.shields.io/badge/-Mock%20AI%20ChatBot-e74c3c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)
 [![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)
 
 ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
 
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2011%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-567%20hrs%2011%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+## ⏱️ My Coding Activity
 
-```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-🌆 Daytime                643 commits         ████████████░░░░░░░░░░░░░   46.16 % 
-🌃 Evening                685 commits         ████████████░░░░░░░░░░░░░   49.17 % 
-🌙 Night                  34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Wednesday                224 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Thursday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Friday                   258 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Saturday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Sunday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-JavaScript               10 hrs 8 mins       ████████████████████████░   97.93 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Trae                     10 hrs 21 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-E-Commerce-Rabbit        10 hrs 7 mins       ████████████████████████░   97.81 % 
-Threejs part 2           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-
-💻 Operating System: 
-Mac                      10 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            █████████████░░░░░░░░░░░░   51.22 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
-
-
- Last Updated on 03/05/2025 18:43:51 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
 
 
 
