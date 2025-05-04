@@ -5,11 +5,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
 
 
-🚀 Passionate about building scalable and high-performance web applications. With a Master’s in Information Technology from the University of Melbourne and a Bachelor’s in Computer Science from Monash University, I have a strong foundation in modern web development.
+🚀 I’m passionate about building scalable, high-performance web applications. With a Master’s in Information Technology from the University of Melbourne and a Bachelor’s in Computer Science from Monash University, I have a solid academic foundation and a strong focus on modern web technologies.
 
-💻 My expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), allowing me to craft efficient backends and dynamic, responsive frontends. I'm also proficient in TypeScript, JavaScript, HTML5, CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
+💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), which enables me to independently design and develop full-stack applications from scratch. I’m also highly proficient in TypeScript, JavaScript, HTML5, CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development methodologies.
+
+📱 In addition to web development, I have independently developed a fully functional iOS mobile app using React Native, showcasing my ability to build cross-platform solutions and deliver seamless user experiences.
 
 🌍 As a permanent resident of Australia, I'm open to exciting development opportunities in Melbourne. Let's build something amazing together!
+
 
 📝 **Portfolio**: [aarontao.com](https://www.aarontao.com/)            
 
