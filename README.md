@@ -20,10 +20,37 @@
 
 🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing | ReactNative
 
-<hr/>
 
+
+## 💻 Latest Projects
+
+Here are some of the projects I’ve been working on:
+
+### 🛒 [**E-Commerce**](https://github.com/HAONANTAO/E-Commerce-Rabbit)
+[![E-Commerce](https://img.shields.io/badge/-Mock%20AI%20ChatBot-e74c3c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
+An e-commerce site featuring a mock AI chatbot and product recommendation system.
+
+---
+
+
+### 💰 [**MoneyRecorder**](https://github.com/HAONANTAO/Money_Recorder)
+[![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
+A mobile app for tracking your finances, built with React Native and Expo.
+
+---
+
+### 🧵 [**Threads App**](https://github.com/HAONANTAO/threads_app)
+[![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
+A real-time messaging app built with React and Node.js.
+
+---
+
+Feel free to check them out, and contribute if you're interested! 😄
+
+<br/><br/>
 🚀 Tech Stack
-#### **Frontend**  
+
+### **Frontend**
 <div style="display: flex; justify-content: center; align-items: center;gap: 6px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -65,12 +92,6 @@
 
 #### **Top Languages**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" />
-
-
-💻 **Latest Repositories**  
-[![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)
-[![E-Commerce](https://img.shields.io/badge/-Mock%20AI%20ChatBot-e74c3c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)
-[![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)
 
 ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
 
