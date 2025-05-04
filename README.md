@@ -27,22 +27,19 @@
 Here are some of the projects I’ve been working on:
 
 ### 🛒 [**E-Commerce**](https://github.com/HAONANTAO/E-Commerce-Rabbit)
-[![E-Commerce](https://img.shields.io/badge/-Mock%20AI%20ChatBot-e74c3c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
+
 An e-commerce site featuring a mock AI chatbot and product recommendation system.
-
 ---
 
 
-### 💰 [**MoneyRecorder**](https://github.com/HAONANTAO/Money_Recorder)
-[![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
-A mobile app for tracking your finances, built with React Native and Expo.
+### 💰 [**MoneyRecorder**]([https://github.com/HAONANTAO/Money_Recorder](https://apps.apple.com/us/app/moneyrecorder/id6744058988))
 
+A modern, feature-rich personal finance management mobile application built with React Native and Appwrite. Track your expenses, set budgets, monitor savings goals, and gain insights into your financial habits with a beautiful and intuitive interface.
 ---
 
-### 🧵 [**Threads App**](https://github.com/HAONANTAO/threads_app)
+### 🧵 [**Threads App**]([www.taohaonan.com](http://www.taohaonan.com/))
 [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
-A real-time messaging app built with React and Node.js.
-
+The Mock Threads app is a dynamic and interactive social media platform designed to replicate the core functionalities of real-world social applications.
 ---
 
 Feel free to check them out, and contribute if you're interested! 😄
