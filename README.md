@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Aaron TAO!
-🚀 Full-Stack Developer | MERN | AWS | React Native
+🚀 Full-Stack Developer | MERN | React Native
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
@@ -18,7 +18,7 @@
 
 📩 **Contact**: taoaaron5@gmail.com | 📞 0412 218 510  
 
-🌱 **Currently exploring**: AI | Docker | AWS | CI/CD | Testing | ReactNative
+🌱 **Currently exploring**: Redux | ReactNative | AI Model | Docker | AWS | CI/CD |
 
 
 
@@ -26,9 +26,9 @@
 
 Here are some of the projects I’ve been working on:
 
-### 🛒 [**E-Commerce**](https://github.com/HAONANTAO/E-Commerce-Rabbit)
+### 🛒 [**E-Commerce**]([https://github.com/HAONANTAO/E-Commerce-Rabbit](https://www.wanyancanrui.com/))
 
-An e-commerce site featuring a mock AI chatbot and product recommendation system.
+The e-commerce website with both admin and user interfaces. The admin panel allows for easy management of products, orders, and user accounts, while the user interface provides a seamless shopping experience, including product browsing, adding items to the cart, and completing purchases. The project is built with MongoDB, Express, React, and Node.js, ensuring a scalable and responsive application. The admin and user sides are designed with different features and permissions to suit the needs of both administrators and customers, providing a comprehensive e-commerce solution."
 ---
 
 
