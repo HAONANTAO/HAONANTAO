@@ -31,7 +31,8 @@ Here are some of the projects I’ve been working on:
 
 ####  🛒 [**E-Commerce**](https://www.wanyancanrui.com/)
 
-[![E-Commerce](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)]([https://github.com/HAONANTAO/threads_app](https://github.com/HAONANTAO/E-Commerce-Rabbit))  
+[![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)
+
 
 A full-featured e-commerce platform with separate admin and user interfaces.
 The admin panel enables efficient management of products, orders, and user accounts, while the user interface offers a smooth shopping experience with product browsing, cart management, and secure checkout.
