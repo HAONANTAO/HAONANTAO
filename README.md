@@ -2,7 +2,7 @@
 🚀 Full-Stack Developer | MERN | React Native
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
-![Starry Blue Particles](/particles.gif)   <!-- 这里插入你的粒子动画GIF -->
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;Keep+coding!&center=true&width=400&height=50&color=0F62FE&vCenter=true&fontSize=30)
 
 💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), enabling me to independently design and deliver full-stack applications from scratch. I am highly proficient in TypeScript, JavaScript, HTML5, and CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
