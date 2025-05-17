@@ -7,12 +7,15 @@
 
 🚀 I’m passionate about building scalable, high-performance web applications. With a Master’s in Information Technology from the University of Melbourne and a Bachelor’s in Computer Science from Monash University, I have a solid academic foundation and a strong focus on modern web technologies.
 
-💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), which enables me to independently design and develop full-stack applications from scratch. I’m also highly proficient in TypeScript, JavaScript, HTML5, CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development methodologies.
+💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), enabling me to independently design and deliver full-stack applications from scratch. I am highly proficient in TypeScript, JavaScript, HTML5, and CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
 
-📱 In addition to web development, I have independently developed a fully functional iOS mobile app using React Native, showcasing my ability to build cross-platform solutions and deliver seamless user experiences.
+📱 Beyond web development, I have independently built and published a fully functional iOS app using React Native, demonstrating my ability to deliver cross-platform solutions and seamless user experiences.
 
-🌍 As a permanent resident of Australia, I'm open to exciting development opportunities in Melbourne. Let's build something amazing together!
+🌱 As a self-motivated and fast learner, I continuously explore new technologies and thrive in collaborative, agile teams.
 
+🌍 As a permanent resident of Australia, I am open to exciting development opportunities in Melbourne. Check out my portfolio or featured projects below! Let’s build something amazing together!
+
+<br/><br/>
 
 📝 **Portfolio**: [aarontao.com](https://www.aarontao.com/)            
 
@@ -26,18 +29,27 @@
 
 Here are some of the projects I’ve been working on:
 
-### 🛒 [**E-Commerce**]([https://github.com/HAONANTAO/E-Commerce-Rabbit](https://www.wanyancanrui.com/))
+####  🛒 [**E-Commerce**](https://www.wanyancanrui.com/)
 
-The e-commerce website with both admin and user interfaces. The admin panel allows for easy management of products, orders, and user accounts, while the user interface provides a seamless shopping experience, including product browsing, adding items to the cart, and completing purchases. The project is built with MongoDB, Express, React, and Node.js, ensuring a scalable and responsive application. The admin and user sides are designed with different features and permissions to suit the needs of both administrators and customers, providing a comprehensive e-commerce solution."
+[![E-Commerce](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)]([https://github.com/HAONANTAO/threads_app](https://github.com/HAONANTAO/E-Commerce-Rabbit))  
+
+A full-featured e-commerce platform with separate admin and user interfaces.
+The admin panel enables efficient management of products, orders, and user accounts, while the user interface offers a smooth shopping experience with product browsing, cart management, and secure checkout.
+Built independently with the MERN stack (MongoDB, Express, React, Node.js), the platform is designed for scalability and responsiveness.
+Distinct features and permission controls ensure both administrators and customers have tailored experiences, making this a robust, production-ready e-commerce solution.
 ---
 
 
-### 💰 [**MoneyRecorder**]([https://github.com/HAONANTAO/Money_Recorder](https://apps.apple.com/us/app/moneyrecorder/id6744058988))
+#### 💰 [**MoneyRecorder**](https://apps.apple.com/us/app/moneyrecorder/id6744058988)
 
-A modern, feature-rich personal finance management mobile application built with React Native and Appwrite. Track your expenses, set budgets, monitor savings goals, and gain insights into your financial habits with a beautiful and intuitive interface.
+Money Recorder is a modern, feature-rich personal finance management mobile app, independently developed with React Native and Appwrite. It empowers users to effortlessly track expenses and income, set and monitor budgets, and manage savings goals-all within an intuitive, visually appealing interface.
+The app offers advanced features such as real-time data synchronization, interactive financial analytics, multi-language support (English & Chinese), and offline data persistence.
+Built with a robust technology stack-including React Native (Expo), NativeWind for styling, Appwrite for secure backend services, and advanced charting libraries-Money Recorder delivers a seamless, cross-platform experience on iOS.
+With its comprehensive admin and user features, Money Recorder provides deep insights into financial habits, helping users achieve their financial goals efficiently and securely.
 ---
 
-### 🧵 [**Threads App**]([www.taohaonan.com](http://www.taohaonan.com/))
+#### 🧵 [**Threads App**](http://www.taohaonan.com/))
+
 [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
 The Mock Threads app is a dynamic and interactive social media platform designed to replicate the core functionalities of real-world social applications.
 ---
@@ -45,6 +57,7 @@ The Mock Threads app is a dynamic and interactive social media platform designed
 Feel free to check them out, and contribute if you're interested! 😄
 
 <br/><br/>
+
 🚀 Tech Stack
 
 ### **Frontend**
