@@ -2,10 +2,7 @@
 🚀 Full-Stack Developer | MERN | React Native
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Keep%20coding;&center=true&width=300&height=50&color=blue&vCenter=true&fontSize=25&fontColor=black&duration=3000&pause=500)
-
-
-🚀 I’m passionate about building scalable, high-performance web applications. With a Master’s in Information Technology from the University of Melbourne and a Bachelor’s in Computer Science from Monash University, I have a solid academic foundation and a strong focus on modern web technologies.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;Keep+coding!&center=true&width=400&height=50&color=0F62FE&vCenter=true&fontSize=30)
 
 💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), enabling me to independently design and deliver full-stack applications from scratch. I am highly proficient in TypeScript, JavaScript, HTML5, and CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
 
