@@ -27,36 +27,21 @@
 
 ## 💻 Latest Projects
 
-Here are some of the projects I’ve been working on:
+**🛒 [E-Commerce Rabbit](https://www.wanyancanrui.com/)** [![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
+A production-ready, full-stack e-commerce platform independently built with the MERN stack.  
+Features separate admin/user interfaces, real-time cart, PayPal checkout, image uploads (Cloudinary), and secure authentication (JWT).  
+Responsive design for all devices, ideal for businesses and developers seeking a robust online store solution.
 
-####  🛒 [**E-Commerce**](https://www.wanyancanrui.com/)
+**💰 [MoneyRecorder](https://apps.apple.com/us/app/moneyrecorder/id6744058988)** [![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
+A modern personal finance app built with React Native and Appwrite.  
+Track expenses/income, set budgets, visualize analytics, and sync data in real time.  
+Supports English/Chinese, offline use, and delivers a seamless iOS experience.
 
-[![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)
+**🧵 [Threads App](http://www.taohaonan.com/)** [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
+A full-featured social media platform inspired by threaded discussion apps.  
+Built with Next.js 13+, MongoDB, Clerk; supports SSR/SSG, nested replies, communities, and user management.  
+Focuses on performance, scalability, and developer experience.
 
-Commerce Rabbit is a production-ready, full-stack e-commerce platform independently built with the MERN stack (MongoDB, Express, React, Node.js). It features distinct admin and user interfaces: the admin dashboard enables efficient management of products, orders, and users, while the user side delivers a smooth shopping experience with product browsing, real-time cart management, and secure PayPal checkout.
-The platform supports image uploads via Cloudinary, secure authentication (JWT, bcrypt), and responsive design for all devices. Designed for scalability and developer experience, E-Commerce Rabbit is ideal for businesses seeking a robust online store and for developers looking for a comprehensive e-commerce solution to learn from or extend.
----
-
-
-#### 💰 [**MoneyRecorder**](https://apps.apple.com/us/app/moneyrecorder/id6744058988)
-
-[![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)
-
-
-Money Recorder is a modern, feature-rich personal finance management mobile app, independently developed with React Native and Appwrite. It empowers users to effortlessly track expenses and income, set and monitor budgets, and manage savings goals-all within an intuitive, visually appealing interface.
-The app offers advanced features such as real-time data synchronization, interactive financial analytics, multi-language support (English & Chinese), and offline data persistence.
-Built with a robust technology stack-including React Native (Expo), NativeWind for styling, Appwrite for secure backend services, and advanced charting libraries-Money Recorder delivers a seamless, cross-platform experience on iOS.
-With its comprehensive admin and user features, Money Recorder provides deep insights into financial habits, helping users achieve their financial goals efficiently and securely.
----
-
-#### 🧵 [**Threads App**](http://www.taohaonan.com/))
-
-[![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)
-
-ock Threads App is a modern, full-featured social media platform inspired by real-world threaded discussion apps. Built independently with Next.js 13+, MongoDB, and Clerk authentication, it delivers a seamless, high-performance user experience with server-side rendering (SSR), static site generation (SSG), and advanced API routing.
-Users can create and interact with threads, join communities, comment, like, repost, and share content-mirroring the core features of leading social platforms. The app supports nested replies, direct messaging (in development), and robust user and community management.
-With a scalable architecture, responsive UI (Tailwind CSS, Radix UI), and a focus on both performance and developer experience, Mock Threads App demonstrates expertise in building production-ready, interactive web applications.
----
 
 Feel free to check them out, and contribute if you're interested! 😄
 
