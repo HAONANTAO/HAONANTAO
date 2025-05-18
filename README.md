@@ -131,15 +131,13 @@ Feel free to check them out, and contribute if you're interested! 😄
 ## ⏱️ My Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 751 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -174,21 +172,21 @@ Sunday                   412 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JavaScript               6 hrs 40 mins       ████████████████████░░░░░   81.86 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               1 hr 15 mins        █████████████████░░░░░░░░   69.14 % 
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Trae                     8 hrs 8 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-E-Commerce-Rabbit        7 hrs 33 mins       ███████████████████████░░   92.86 % 
-PortfolioWebsite         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+E-Commerce-Rabbit        1 hr 32 mins        █████████████████████░░░░   84.80 % 
+PortfolioWebsite         16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 
 💻 Operating System: 
-Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -208,7 +206,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 18:44:32 UTC
+ Last Updated on 18/05/2025 18:44:27 UTC
 <!--END_SECTION:waka-->
 
 
