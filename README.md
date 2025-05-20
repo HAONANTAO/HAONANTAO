@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Aaron TAO!
-🚀 Full-Stack Developer | MERN | React Native  
+## 👋 Hi, I'm Aaron TAO!                    🚀 Full-Stack Developer | MERN | React Native  
+
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
 <br/>
