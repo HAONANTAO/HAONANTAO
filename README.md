@@ -131,15 +131,13 @@ Feel free to check them out, and contribute if you're interested! 😄
 ## ⏱️ My Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 784 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -209,7 +207,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 18:48:13 UTC
+ Last Updated on 23/05/2025 18:47:38 UTC
 <!--END_SECTION:waka-->
 
 
