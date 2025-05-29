@@ -172,19 +172,16 @@ Sunday                   494 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JSON                     1 hr 49 mins        ███████████████████░░░░░░   77.85 % 
-JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-TSConfig                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Money_Recorder           2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +201,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:47:25 UTC
+ Last Updated on 29/05/2025 18:48:48 UTC
 <!--END_SECTION:waka-->
 
 
