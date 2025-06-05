@@ -133,13 +133,13 @@ Feel free to check them out, and contribute if you're interested! 😄
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 785 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,8 +151,8 @@ Feel free to check them out, and contribute if you're interested! 😄
 
 ```text
 🌞 Morning                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-🌆 Daytime                786 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                1192 commits        ██████████████░░░░░░░░░░░   57.81 % 
+🌆 Daytime                786 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌃 Evening                1193 commits        ██████████████░░░░░░░░░░░   57.83 % 
 🌙 Night                  34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -160,11 +160,11 @@ Feel free to check them out, and contribute if you're interested! 😄
 ```text
 Monday                   284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 Tuesday                  178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Saturday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Sunday                   494 commits         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Thursday                 98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Saturday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Sunday                   494 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
 
 
@@ -203,7 +203,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:45:29 UTC
+ Last Updated on 05/06/2025 11:04:19 UTC
 <!--END_SECTION:waka-->
 
 
