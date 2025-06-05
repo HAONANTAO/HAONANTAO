@@ -133,8 +133,6 @@ Feel free to check them out, and contribute if you're interested! 😄
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -203,7 +201,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 11:04:19 UTC
+ Last Updated on 05/06/2025 18:55:54 UTC
 <!--END_SECTION:waka-->
 
 
