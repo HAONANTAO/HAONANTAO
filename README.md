@@ -137,8 +137,6 @@ Feel free to check them out, and contribute if you're interested! 😄
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 785 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -172,16 +170,16 @@ Sunday                   494 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+untitled folder          14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,7 +199,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 03:34:40 UTC
+ Last Updated on 08/06/2025 18:45:44 UTC
 <!--END_SECTION:waka-->
 
 
