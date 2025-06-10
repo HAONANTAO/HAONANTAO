@@ -121,14 +121,14 @@ Feel free to check them out, and contribute if you're interested! 😄
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=radical&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HAONANTAO&theme=radical)
-#### **Top Languages**  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" />
+
+
+
+![Language Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=radical)
 
 ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-567%20hrs%2011%20mins-blue?style=flat-square)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 
 ## ⏱️ My Coding Activity
