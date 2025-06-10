@@ -1,5 +1,10 @@
 ## 👋 Hi, I'm Aaron TAO!                    🚀 Full-Stack Developer | MERN | React Native | AWS
 
+
+
+[![Deployed](https://img.shields.io/badge/Deployed-Vercel-0070F3?style=flat-square&logo=vercel)](https://www.wanyancanrui.com/)
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-MERN-0070F3?style=flat-square&logo=mongodb&logoColor=white)]()
+<br/>
 💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
 <br/>
@@ -68,8 +73,6 @@ Built with Next.js 13+, MongoDB, and Clerk authentication, it features SSR/SSG, 
 <img src="https://raw.githubusercontent.com/HAONANTAO/threads_app/main/Demo2.png" width="300" alt="Threads Demo2" />
 
 ---
-
-
 
 
 Feel free to check them out, and contribute if you're interested! 😄
