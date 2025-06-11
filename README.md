@@ -1,43 +1,46 @@
-## 👋 Hi, I'm Aaron TAO!                    🚀 Full-Stack Developer | MERN | React Native | AWS
+## 👋 Hi, I'm Aaron TAO!  
+🚀 Full-Stack Developer | MERN | React Native | AWS | Based in Melbourne
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+</div>
 
 [![Deployed](https://img.shields.io/badge/Deployed-Vercel-0070F3?style=flat-square&logo=vercel)](https://www.wanyancanrui.com/)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-MERN-0070F3?style=flat-square&logo=mongodb&logoColor=white)]()
-<br/>
-💼 **Looking for new opportunities** as a Developer in **Melbourne**!   
 
-<br/>
+---
 
-![Starry Blue Particles](/particles.gif)
+💼 **Actively seeking developer opportunities in Melbourne!**
 
-<br/>
+💻 I'm a full-stack developer with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build complete web and mobile applications from scratch and deliver high-quality, maintainable code.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;Keep+coding!&center=true&width=400&height=50&color=0F62FE&vCenter=true&fontSize=30" alt="Typing SVG" />
-</div>
+🔧 **Skilled in:**  
+`TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Tailwind CSS`, `Next.js`, `React Native`, `AWS`, `Docker`, `CI/CD`, `Agile`
 
-<br/>
+📱 I’ve independently designed and published an iOS mobile app using React Native, offering cross-platform functionality and seamless UX.
 
-💻 My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), enabling me to independently design and deliver full-stack applications from scratch. I am highly proficient in TypeScript, JavaScript, HTML5, and CSS3, and have hands-on experience with AWS, CI/CD pipelines, and agile development.
+🚀 I thrive in collaborative, agile teams and love turning complex problems into elegant solutions.
 
-📱 Beyond web development, I have independently built and published a fully functional iOS app using React Native, demonstrating my ability to deliver cross-platform solutions and seamless user experiences.
+🧠 **Currently learning:** Redux, AI integration, DevOps automation
 
-🌱 As a self-motivated and fast learner, I continuously explore new technologies and thrive in collaborative, agile teams.
+---
 
-🌍 As a permanent resident of Australia, I am open to exciting development opportunities in Melbourne. Check out my portfolio or featured projects below! Let’s build something amazing together!
-Actively contributing to open-source and always eager to learn new technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,aws,docker,firebase,figma&theme=light" />
+</p>
 
-<br/><br/>
+---
+
+📫 **Let's Connect!**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white)](https://www.aarontao.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taoaaron5@gmail.com)
+[![Email](https://img.shields.io/badge/-taoaaron5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taoaaron5@gmail.com)
 [![Phone](https://img.shields.io/badge/-0412%20218%20510-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:0412218510)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/你的LinkedIn用户名/)
 
+---
 
-🌱 **Currently exploring**: Redux | ReactNative | AI Model | Docker | AWS | CI/CD |
-
+![Starry Blue Particles](/particles.gif)
 
 
 ## 💻 Latest Projects
