@@ -26,8 +26,10 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,aws,docker,firebase,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,aws,docker,vercel,git,github,figma&theme=dark" />
 </p>
+
+
 
 ---
 
