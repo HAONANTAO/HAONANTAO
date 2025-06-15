@@ -27,40 +27,28 @@
 </p>
 
 
-
 ---
 
-💼 **Actively seeking developer opportunities in Melbourne!**
+💼 **Seeking full-stack developer roles in Melbourne**
 
-💻 I'm a full-stack developer with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build complete web and mobile applications from scratch and deliver high-quality, maintainable code.
+💻 Skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js), delivering maintainable web & mobile apps from scratch.
 
-🔧 **Skilled in:**  
+🔧 **Tech highlights:**  
 `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Tailwind CSS`, `Next.js`, `React Native`, `AWS`, `Docker`, `CI/CD`, `Agile`
 
-📱 I’ve independently designed and published an iOS mobile app using React Native, offering cross-platform functionality and seamless UX.
+📱 Published an iOS app built with React Native, focused on cross-platform and smooth UX.
 
-🚀 I thrive in collaborative, agile teams and love turning complex problems into elegant solutions.
+🚀 Thrive in agile teams, solving complex problems with clean, scalable code.
 
-🧠 **Currently learning:** Redux, AI integration, DevOps automation
+🧠 **Learning:** Redux, AI integration, DevOps automation
 
----
-
+<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,aws,docker,vercel,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,aws,docker,vercel,git,github,figma,reactnative&theme=dark" />
 </p>
 
-
-
 ---
 
-📫 **Let's Connect!**
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white)](https://www.aarontao.com/)
-[![Email](https://img.shields.io/badge/-taoaaron5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taoaaron5@gmail.com)
-[![Phone](https://img.shields.io/badge/-0412%20218%20510-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:0412218510)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/你的LinkedIn用户名/)
-
----
 
 ![Starry Blue Particles](/particles.gif)
 
