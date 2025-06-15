@@ -29,12 +29,6 @@
 
 ---
 
-💼 **Seeking full-stack developer roles in Melbourne**
-
-💻 Skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js), delivering maintainable web & mobile apps from scratch.
-
-🔧 **Tech highlights:**  
-`TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Tailwind CSS`, `Next.js`, `React Native`, `AWS`, `Docker`, `CI/CD`, `Agile`
 
 📱 Published an iOS app built with React Native, focused on cross-platform and smooth UX.
 
@@ -147,7 +141,7 @@ Feel free to check them out, and contribute if you're interested! 😄
 ## ⏱️ My Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2026%20mins-blue)
+
 
 **🐱 My GitHub Data** 
 
