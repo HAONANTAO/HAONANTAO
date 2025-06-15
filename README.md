@@ -1,12 +1,32 @@
-## 👋 Hi, I'm Aaron TAO!  
-🚀 Full-Stack Developer | MERN | React Native | AWS | Based in Melbourne
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Aaron TAO</span>!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </div>
+<p align="center">
+  <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="180" />
+</p>
+<p align="center">
+  <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 
-[![Deployed](https://img.shields.io/badge/Deployed-Vercel-0070F3?style=flat-square&logo=vercel)](https://www.wanyancanrui.com/)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-MERN-0070F3?style=flat-square&logo=mongodb&logoColor=white)]()
+<h2 align="center">
+  💼 <strong>About Me</strong>
+</h2>
+
+<p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto;">
+  🚀 <strong>Actively seeking Full-Stack Developer roles</strong><br/>
+  💻 Tech Stack: <code>MERN</code> + <code>AWS</code> + <code>React Native</code><br/>
+  🇦🇺 Melbourne Based<br/>
+  🛂 Permanent Resident (PR) in Australia<br/>
+  🎨 Passionate about crafting <em>scalable</em> & <em>robust</em> applications<br/>
+  🌱 Currently diving deeper into <strong>AWS Serverless</strong> & <strong>React Native</strong><br/>
+  🏋️‍♂️ Avid gym-goer & 🃏 poker player
+</p>
+
+
 
 ---
 
