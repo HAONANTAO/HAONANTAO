@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Aaron TAO</span>!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </div>
+
 <p align="center">
   <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="180" />
 </p>
