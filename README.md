@@ -147,6 +147,8 @@ Feel free to check them out, and contribute if you're interested! 😄
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 851 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -209,7 +211,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 18:47:47 UTC
+ Last Updated on 20/06/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
 
 
