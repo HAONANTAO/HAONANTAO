@@ -127,8 +127,6 @@ Feel free to check them out, and contribute if you're interested! 😄
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=radical&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HAONANTAO&theme=radical)
-
 
 
 ![Language Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=radical)
