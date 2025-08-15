@@ -17,35 +17,24 @@
 </h2>
 
 <p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto;">
-  🚀 <strong>Actively seeking Full-Stack Developer roles</strong><br/>
-  💻 Tech Stack: <code>MERN</code> + <code>AWS</code> + <code>React Native</code><br/>
-  🇦🇺 Melbourne Based<br/>
-  🛂 Permanent Resident (PR) in Australia<br/>
-  🎨 Passionate about crafting <em>scalable</em> & <em>robust</em> applications<br/>
-  🌱 Currently diving deeper into <strong>AWS Serverless</strong> & <strong>React Native</strong><br/>
-  🏋️‍♂️ Avid gym-goer & 🃏 poker player
+🚀 Actively seeking Full-Stack Developer roles  <br/>
+💻 Tech Stack: MERN + AWS + React Native  <br/>
+📱 Published an iOS app built with React Native  <br/>
+🧠 Expanding skills in Redux & DevOps automation  <br/>
+🇦🇺 Melbourne Based | 🛂 Australian PR<br/>
 </p>
 
+### Core Skills
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,typescript&theme=dark" />
+
+### Additional Skills
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,docker&theme=dark" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 
 ---
-
-
-📱 Published an iOS app built with React Native, focused on cross-platform and smooth UX.
-
-🚀 Thrive in agile teams, solving complex problems with clean, scalable code.
-
-🧠 **Learning:** Redux, AI integration, DevOps automation
-
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,aws,docker,vercel,git,github,figma,reactnative&theme=dark" />
-</p>
-
----
-
-
-![Starry Blue Particles](/particles.gif)
-
 
 ## 💻 Latest Projects
 
@@ -85,134 +74,20 @@ Built with Next.js 13+, MongoDB, and Clerk authentication, it features SSR/SSG, 
 Feel free to check them out, and contribute if you're interested! 😄
 
 <br/><br/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=radical" />
+</p>
 
-🚀 Tech Stack
+<details>
+  <summary>📈 More Coding Activity & WakaTime</summary>
 
-### **Frontend**
-<div style="display: flex; justify-content: center; align-items: center;gap: 6px;">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
+    <!--START_SECTION:waka-->
+  ![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2019%20mins-blue)
+  
 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-</div>
+  <!--END_SECTION:waka-->
 
- **Backend & Database**
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</div>
-
- DevOps & Cloud
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
-</div>
- 
- Testing & CI/CD
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0077B5?style=flat-square&logo=githubactions&logoColor=white" />
-</div>
-
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=radical&count_private=true)
-
-
-![Language Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=radical)
-
-![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
-
-![Code Time](https://img.shields.io/badge/Code%20Time-567%20hrs%2011%20mins-blue?style=flat-square)
-
-
-## ⏱️ My Coding Activity
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2019%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-🌆 Daytime                978 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌃 Evening                1568 commits        ███████████████░░░░░░░░░░   59.28 % 
-🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Wednesday                363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Thursday                 188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Friday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Sunday                   638 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       █████████████████████████   98.61 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-Trae                     7 hrs 26 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-RealEstate.Backend       3 hrs 43 mins       █████████████░░░░░░░░░░░░   50.02 % 
-AllStorage               3 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.98 % 
-
-💻 Operating System: 
-Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               22 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
-
-
- Last Updated on 14/08/2025 18:52:20 UTC
-<!--END_SECTION:waka-->
-
-
-
+</details>
