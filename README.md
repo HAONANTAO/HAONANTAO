@@ -37,15 +37,17 @@
 ---
 
 ## 💻 Latest Projects
----
 
+---
 **🗄️ [AllStorage](https://github.com/HAONANTAO/AllStorage)** [![AllStorage](https://img.shields.io/badge/-AllStorage-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/AllStorage)  
 A modern cloud-based file storage and management solution with a clean UI and secure sharing.  
 Upload, organize, preview, and share files easily with real-time sync and role-based access control. Supports large file handling, folder structures, and seamless collaboration.  
 
 **Tech:** Next.js (App Router), TypeScript, TailwindCSS, Appwrite, AWS S3, Clerk  
-<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/assets/All1.png" width="180" alt="AllStorage Dashboard" />
-
+<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/Demo1.png" width="400" alt="AllStorage Dashboard" />
+<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/Features0.png" width="400" alt="AllStorage Dashboard 1 " />
+<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/Features1.png" width="400" alt="AllStorage Dashboard 2" />
+<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/Features3.png" width="400" alt="AllStorage Dashboard 3" />
 ---
 
 **💰 [Money Recorder](https://apps.apple.com/us/app/moneyrecorder/id6744058988)** [![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
