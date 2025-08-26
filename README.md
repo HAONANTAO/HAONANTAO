@@ -37,15 +37,14 @@
 ---
 
 ## 💻 Latest Projects
-
 ---
 
-**🛒 [E-Commerce Rabbit](https://www.wanyancanrui.com/)** [![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
-A production-ready, full-stack e-commerce platform independently built with the MERN stack (MongoDB, Express, React, Node.js).  
-Features include a dynamic product catalog, real-time cart (Redux Toolkit), secure JWT authentication, PayPal integration, Cloudinary image uploads, and a robust admin dashboard for managing products, orders, and users.  
+**🗄️ [AllStorage](https://github.com/HAONANTAO/AllStorage)** [![AllStorage](https://img.shields.io/badge/-AllStorage-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/AllStorage)  
+A modern cloud-based file storage and management solution with a clean UI and secure sharing.  
+Upload, organize, preview, and share files easily with real-time sync and role-based access control. Supports large file handling, folder structures, and seamless collaboration.  
 
-**Tech:** React, Redux Toolkit, Tailwind CSS, Express, MongoDB, Cloudinary, PayPal API, Vercel/AWS  
-<img src="https://raw.githubusercontent.com/HAONANTAO/E-Commerce-Rabbit/main/ScreenShow.png" width="600" alt="E-Commerce Rabbit Screenshot" />
+**Tech:** Next.js (App Router), TypeScript, TailwindCSS, Appwrite, AWS S3, Clerk  
+<img src="https://raw.githubusercontent.com/HAONANTAO/AllStorage/main/assets/All1.png" width="180" alt="AllStorage Dashboard" />
 
 ---
 
@@ -60,6 +59,16 @@ Track expenses/income, manage budgets, set savings goals, and visualize analytic
 
 ---
 
+**🛒 [E-Commerce Rabbit](https://www.wanyancanrui.com/)** [![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
+A production-ready, full-stack e-commerce platform independently built with the MERN stack (MongoDB, Express, React, Node.js).  
+Features include a dynamic product catalog, real-time cart (Redux Toolkit), secure JWT authentication, PayPal integration, Cloudinary image uploads, and a robust admin dashboard for managing products, orders, and users.  
+
+**Tech:** React, Redux Toolkit, Tailwind CSS, Express, MongoDB, Cloudinary, PayPal API, Vercel/AWS  
+<img src="https://raw.githubusercontent.com/HAONANTAO/E-Commerce-Rabbit/main/ScreenShow.png" width="600" alt="E-Commerce Rabbit Screenshot" />
+
+---
+
+---
 **🧵 [Threads App](https://threads-app-eight-nu.vercel.app/)** [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
 A dynamic, interactive social media platform inspired by real-world threaded discussion apps.  
 Built with Next.js 13+, MongoDB, and Clerk authentication, it features SSR/SSG, advanced API routing, nested threads, community management, and direct messaging (in development). Provides a modern, scalable, and performant user experience.  
