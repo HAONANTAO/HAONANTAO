@@ -70,19 +70,11 @@ Features include a dynamic product catalog, real-time cart (Redux Toolkit), secu
 
 ---
 
----
-**🧵 [Threads App](https://threads-app-eight-nu.vercel.app/)** [![Threads App](https://img.shields.io/badge/-Threads%20App-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/threads_app)  
-A dynamic, interactive social media platform inspired by real-world threaded discussion apps.  
-Built with Next.js 13+, MongoDB, and Clerk authentication, it features SSR/SSG, advanced API routing, nested threads, community management, and direct messaging (in development). Provides a modern, scalable, and performant user experience.  
-
-**Tech:** Next.js 13+, MongoDB, Clerk, Tailwind CSS, Radix UI, Vercel  
-<img src="https://raw.githubusercontent.com/HAONANTAO/threads_app/main/Demo1.png" width="300" alt="Threads Demo1" />
-<img src="https://raw.githubusercontent.com/HAONANTAO/threads_app/main/Demo2.png" width="300" alt="Threads Demo2" />
-
----
-
 
 Feel free to check them out, and contribute if you're interested! 😄
+<p align="center">
+  🔎 View more projects on my <a href="https://www.aarontao.com/">Personal Profolio</a>
+</p>
 
 <br/><br/>
 ### 📊 GitHub Stats
