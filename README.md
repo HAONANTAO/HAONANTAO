@@ -3,13 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
-  <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="180" />
-</p>
-<p align="center">
-  <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/HAONANTAO"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h2 align="center">
@@ -17,12 +16,12 @@
 </h2>
 
 <p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto;">
-🚀 Actively seeking Full-Stack Developer roles  <br/>
-💻 Tech Stack: MERN + AWS + React Native  <br/>
-📱 Published an iOS app built with React Native  <br/>
-🧠 Expanding skills in Redux & DevOps automation  <br/>
-🇦🇺 Melbourne Based | 🛂 Australian PR<br/>
+🚀 Melbourne-based Full-Stack Developer building web & mobile apps  <br/>
+💻 Core Skills: MERN | React Native | AWS | Published iOS Apps  <br/>
+🛠 Passionate about creating production-ready solutions and improving user experience  <br/>
+🇦🇺 Australian PR | Open to Full-Time roles
 </p>
+
 
 ### Core Skills
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,typescript&theme=dark" />
