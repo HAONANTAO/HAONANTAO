@@ -99,8 +99,6 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
 
   ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%205%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -130,7 +128,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 18:46:21 UTC
+ Last Updated on 23/09/2025 18:47:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
