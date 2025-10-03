@@ -99,8 +99,6 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
 
   ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2041%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -113,52 +111,6 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-🌆 Daytime                1353 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                2437 commits        ████████████████░░░░░░░░░   62.39 % 
-🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   589 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Tuesday                  332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Wednesday                516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Thursday                 331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Friday                   514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 635 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Sunday                   989 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-TypeScript               6 hrs 44 mins       ████████████████░░░░░░░░░   65.69 % 
-JSON                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-C#                       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-RealEstate.Backend       4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.28 % 
-RealEstate.Backend.Conver3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
-Global360Test            2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Shared                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-
-💻 Operating System: 
-Mac                      10 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -176,7 +128,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:45:18 UTC
+ Last Updated on 03/10/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
