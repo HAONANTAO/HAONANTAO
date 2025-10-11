@@ -99,7 +99,7 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
 
   ![HAONANTAO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&theme=tokyo-night)
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -140,21 +140,21 @@ Sunday                   1079 commits        ██████░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               15 hrs 49 mins      █████████████████████████   98.07 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               14 hrs 38 mins      █████████████████████████   98.13 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RealEstate.Backend       14 hrs 19 mins      ██████████████████████░░░   88.77 % 
-RealEstate.Backend.Conver1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Shared                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+RealEstate.Backend       13 hrs 6 mins       ██████████████████████░░░   87.86 % 
+RealEstate.Backend.Conver1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Shared                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 18:46:35 UTC
+ Last Updated on 11/10/2025 18:41:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
