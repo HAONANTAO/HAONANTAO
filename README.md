@@ -140,18 +140,16 @@ Sunday                   871 commits         ███████░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████████████░░   93.02 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ███████████████████████░░   93.02 % 
-untitled folder          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,7 +169,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 18:45:04 UTC
+ Last Updated on 02/03/2026 18:47:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
