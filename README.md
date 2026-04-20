@@ -21,6 +21,7 @@
 💻 MERN | React Native | AWS | RAG / LangChain / OpenAI | Published iOS Apps  <br/>
 🛠 Passionate about shipping production-ready solutions powered by AI  <br/>
 🎓 Monash University CS | University of Melbourne IT  <br/>
+🔨 Currently Building: MXCareer — AI-powered career platform  <br/>
 🇦🇺 Australian PR | Open to Full-Time roles
 </p>
 
@@ -133,11 +134,13 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
   <img src="https://streak-stats.demolab.com?user=HAONANTAO&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
+  </picture>
+</p>
 
 <details>
   <summary>📈 More Coding Activity & WakaTime</summary>
