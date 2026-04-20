@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Aaron+TAO!;Full-Stack+Developer+from+Melbourne;MERN+Stack+%7C+React+Native+%7C+AWS;AI+Apps+%7C+RAG+%7C+LangChain+%7C+OpenAI;Published+iOS+App+on+App+Store;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </div>
 
 
 <p align="center">
   <a href="https://github.com/HAONANTAO"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
- <a href="2025.09.07Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+ <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/2025.09.11Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
@@ -17,28 +17,53 @@
 </h2>
 
 <p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto;">
-🚀 Melbourne-based Full-Stack Developer building web & mobile apps  <br/>
-💻 Core Skills: MERN | React Native | AWS | Published iOS Apps  <br/>
-🛠 Passionate about creating production-ready solutions and improving user experience  <br/>
+🚀 Melbourne-based Full-Stack Developer building web, mobile & AI apps  <br/>
+💻 MERN | React Native | AWS | RAG / LangChain / OpenAI | Published iOS Apps  <br/>
+🛠 Passionate about shipping production-ready solutions powered by AI  <br/>
+🎓 Monash University CS | University of Melbourne IT  <br/>
 🇦🇺 Australian PR | Open to Full-Time roles
 </p>
 
 
-### Core Skills
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,typescript&theme=dark" />
+<h3 align="center">Core Skills</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,typescript&theme=dark" /></p>
 
-### Additional Skills
+<h3 align="center">Additional Skills</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,docker&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,docker&theme=dark" />
+<h3 align="center">Tools & Workflow</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" /></p>
 
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+<h3 align="center">AI & Emerging Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8e44ad?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stitch-E74C3C?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-🔭_Learning-0ea5e9?style=flat&logoColor=white" />
+</p>
 
 ---
 
 ## 💻 Latest Projects
 
 ---
+**🤖 [DocuMind](https://docu-mind-neon.vercel.app)** [![DocuMind](https://img.shields.io/badge/-DocuMind-8e44ad?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/DocuMind)  
+An AI-powered document Q&A SaaS — upload a PDF, ask questions, get answers with source citations using RAG.
+
+**Highlights:**  
+🔹 RAG pipeline: chunk → embed → vector search → GPT-4o-mini generation  
+🔹 Streaming responses via Server-Sent Events (token-by-token)  
+🔹 Multi-turn memory across last 6 exchanges  
+🔹 Per-user vector isolation with Pinecone namespaces  
+🔹 Async background indexing with real-time status updates  
+
+**Tech:** React 19, Node.js/Express 5, MongoDB, Pinecone, OpenAI GPT-4o-mini, LangChain, Vercel/Render  
+
+<img src="https://raw.githubusercontent.com/HAONANTAO/DocuMind/main/DocuMind.png" width="600" alt="DocuMind – AI Document Q&A" />
+
+---
+
 **🗄️ [AllStorage](https://github.com/HAONANTAO/AllStorage)** [![AllStorage](https://img.shields.io/badge/-AllStorage-3498db?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/AllStorage)  
 A cloud-based file storage platform with real-time sync and role-based access control.  
 
@@ -58,12 +83,14 @@ A cloud-based file storage platform with real-time sync and role-based access co
 
 **💰 [Money Recorder](https://apps.apple.com/us/app/moneyrecorder/id6744058988)** [![MoneyRecorder](https://img.shields.io/badge/-MoneyRecorder-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/Money_Recorder)  
 A personal finance management iOS app for tracking expenses, managing budgets, and visualizing analytics.
-Highlights:
+
+**Highlights:**  
 🔹 Track expenses/income, manage budgets, and visualize analytics
 🔹 Real-time sync & offline mode, bilingual UI (English/Chinese)
 🔹 Successfully tested with 10+ users
 🔹 Handles >500 transactions per user without lag
 🔹 Average screen load time <2s
+
 **Tech:** React Native, Expo, NativeWind, Appwrite, Chart Kit, AsyncStorage  
 
 <img src="https://raw.githubusercontent.com/HAONANTAO/Money_Recorder/main/assets/Demo1.jpg" width="220" alt="Money Recorder – Home" />
@@ -72,12 +99,15 @@ Highlights:
 ---
 
 **🛒 [E-Commerce Rabbit](https://www.wanyancanrui.com/)** [![E-Commerce](https://img.shields.io/badge/-E--Commerce-1abc9c?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/E-Commerce-Rabbit)  
-Independently developed, production-ready full-stack MERN e-commerce platform with secure transactions and real-time features. 
+Independently developed, production-ready full-stack MERN e-commerce platform with secure transactions and real-time features.
+
+**Highlights:**  
 🔹 Dynamic product catalog & real-time shopping cart
 🔹 Secure JWT authentication & PayPal payment integration
 🔹 Handles >100 concurrent users with smooth performance
 🔹 Successfully processed 200+ orders in internal testing
 🔹 Average page load: <1.2s
+
 **Tech:** React, Redux Toolkit, Tailwind CSS, Express, MongoDB, Cloudinary, PayPal API, Vercel/AWS  
 
 <img src="https://raw.githubusercontent.com/HAONANTAO/E-Commerce-Rabbit/main/ScreenShow.png" width="600" alt="E-Commerce Rabbit – Dashboard" />
@@ -88,11 +118,26 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
   🔗 Check my <a href="https://www.aarontao.com/">Portfolio</a> for more production-ready apps & projects!
 </p>
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAONANTAO&style=flat&color=8e44ad&label=Profile+Views" alt="Profile Views" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAONANTAO&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAONANTAO&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HAONANTAO&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
+</picture>
 
 <details>
   <summary>📈 More Coding Activity & WakaTime</summary>
@@ -103,15 +148,7 @@ Independently developed, production-ready full-stack MERN e-commerce platform wi
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 36 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
