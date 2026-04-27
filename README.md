@@ -17,51 +17,111 @@
 
 <h2 align="center">👋 whoami</h2>
 
-**I build AI systems that ship — not demos.**
+<p align="center">
+  <b>Aaron — AI Engineer in Melbourne 🇦🇺.</b><br/>
+  I build AI products that <b>ship to real users</b>, not demos for slides.
+</p>
 
-I'm Aaron, an AI Engineer in Melbourne 🇦🇺. **Monash CS · University of Melbourne IT · Australian PR.**
-6+ production projects shipped — including [DocuMind](https://docu-mind-neon.vercel.app) (RAG SaaS) and an iOS app live on the App Store.
+<p align="center">
+  🎓 <b>Monash CS</b> &nbsp;·&nbsp; <b>UoM IT</b> &nbsp;·&nbsp; 🇦🇺 <b>Australian PR</b> &nbsp;·&nbsp; 🚢 <b>6+ projects shipped</b> &nbsp;·&nbsp; 📱 <b>1 on App Store</b>
+</p>
 
-These days I'm obsessed with **multi-tenant RAG**, **streaming UX**, and **agent loops that don't hallucinate**.
-
-Currently building **[SkillPath](https://github.com/HAONANTAO/skillpath)** — an AI Learning Coach with agent-driven roadmaps and adaptive quizzes.
+<table align="center">
+  <tr>
+    <td align="center">🤖 <b>Shipping</b></td>
+    <td><a href="https://docu-mind-neon.vercel.app"><b>DocuMind</b></a></td>
+    <td><sub>multi-tenant RAG SaaS · token streaming · per-user vector isolation</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧭 <b>Building</b></td>
+    <td><a href="https://github.com/HAONANTAO/skillpath"><b>SkillPath</b></a></td>
+    <td><sub>AI Learning Coach · agent-driven roadmaps · adaptive quizzes</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>Going deep on</b></td>
+    <td colspan="2"><sub>multi-tenant RAG &nbsp;·&nbsp; streaming UX &nbsp;·&nbsp; agent loops</sub></td>
+  </tr>
+</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">🧭 How I build</h2>
+<h2 align="center">🧭 How I work</h2>
 
-- **Ship beats demo.** A v1 in production teaches more than a v3 in slides.
-- **Numbers over adjectives.** "Fast" means nothing; `<400ms p95` does.
-- **Architecture before code.** I draw the system before writing the first line.
-- **AI-augmented, human-verified.** I lean on Claude Code daily, but I read every line that ships.
+<table align="center">
+  <tr>
+    <td>🚢 <b>Ship to learn</b></td>
+    <td><sub>v1 in production teaches faster than v3 on slides.</sub></td>
+  </tr>
+  <tr>
+    <td>📊 <b>Measure, don't claim</b></td>
+    <td><sub><code>&lt;400ms p95</code> is data. "fast" is noise.</sub></td>
+  </tr>
+  <tr>
+    <td>🗺 <b>Diagram first, code second</b></td>
+    <td><sub>every project starts with a system sketch — saves rewrites later.</sub></td>
+  </tr>
+  <tr>
+    <td>🤝 <b>AI-paired, human-verified</b></td>
+    <td><sub>Claude Code daily — every line gets reviewed before merge.</sub></td>
+  </tr>
+</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,mongodb,aws,docker&theme=dark" />
-</p>
-
-<p align="center">
-  <sub><b>MODELS</b></sub>&nbsp;
-  <img src="https://img.shields.io/badge/Claude-c96442?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" />
-  &nbsp;·&nbsp;
-  <sub><b>AI STACK</b></sub>&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Pinecone-6d28d9?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SSE-0ea5e9?style=flat-square&labelColor=0d1117" />
-</p>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">📊 Engineering Pulse</h2>
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics — isometric calendar, languages, habits" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><sub><b>AI / LLM</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Claude-c96442?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/SSE_Streaming-0ea5e9?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Languages</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Backend</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Data</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Pinecone-6d28d9?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Cloud / DevOps</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
