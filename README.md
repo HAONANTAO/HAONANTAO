@@ -114,10 +114,10 @@ sequenceDiagram
     API-->>U: data: [DONE] · close stream
 ```
 
-**Highlights** *(numbers measured on production deploy — see "How I measured" below)*
-🔹 **RAG pipeline** — chunk → embed → top-`{TBD}` vector search → GPT-4o-mini generation
+**Highlights**
+🔹 **RAG pipeline** — chunk (1k char, 200 overlap) → embed (`text-embedding-3-small`) → **top-5** Pinecone search → `gpt-4o-mini` @ `temperature: 0`
 🔹 **Streaming via SSE** — token-by-token · **first token `<{TBD}` ms p95** · full response avg `~{TBD}` s
-🔹 **Multi-turn memory** — last 6 exchanges, `~{TBD}` k token rolling window
+🔹 **Multi-turn memory** — 6-message rolling window, capped for predictable token budget
 🔹 **Per-user isolation** — Pinecone namespace per JWT-extracted `userId` (never user-supplied)
 🔹 **Async indexing** — background worker + startup cleanup for orphaned documents
 
@@ -137,22 +137,16 @@ sequenceDiagram
   A curated slice — full archive on <a href="https://www.aarontao.com/">aarontao.com</a>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤖 <a href="https://github.com/HAONANTAO/ai-customer-support-system">ai-customer-support-system</a></h3>
-      <p>LangChain-powered customer support agent in TypeScript.</p>
-      <a href="https://github.com/HAONANTAO/ai-customer-support-system"><img src="https://img.shields.io/github/last-commit/HAONANTAO/ai-customer-support-system?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
-      <a href="https://github.com/HAONANTAO/ai-customer-support-system"><img src="https://img.shields.io/github/languages/top/HAONANTAO/ai-customer-support-system?style=flat-square&color=a371f7&labelColor=0d1117" /></a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📱 <a href="https://github.com/HAONANTAO/Money_Recorder">Money Recorder</a></h3>
-      <p>Personal finance iOS app — React Native + Expo, live on the App Store.</p>
-      <a href="https://github.com/HAONANTAO/Money_Recorder"><img src="https://img.shields.io/github/last-commit/HAONANTAO/Money_Recorder?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
-      <img src="https://img.shields.io/badge/iOS-App%20Store-000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/HAONANTAO/Money_Recorder">
+    <h3 align="center">📱 Money Recorder</h3>
+  </a>
+  <p align="center">Personal finance iOS app — React Native + Expo, <b>live on the App Store</b>.</p>
+  <p align="center">
+    <a href="https://github.com/HAONANTAO/Money_Recorder"><img src="https://img.shields.io/github/last-commit/HAONANTAO/Money_Recorder?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
+    <img src="https://img.shields.io/badge/iOS-App%20Store-000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117" />
+  </p>
+</p>
 
 <p align="center">
   <a href="https://github.com/HAONANTAO?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
