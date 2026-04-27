@@ -57,6 +57,14 @@ Currently building **[SkillPath](https://github.com/HAONANTAO/skillpath)** — a
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
+<h2 align="center">📊 Engineering Pulse</h2>
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics — isometric calendar, languages, habits" />
+</p>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
 <h2 align="center">💻 Featured Project</h2>
 
 **🤖 [DocuMind](https://docu-mind-neon.vercel.app)** &nbsp;[![DocuMind](https://img.shields.io/badge/-DocuMind-8e44ad?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/DocuMind)
@@ -76,12 +84,42 @@ flowchart LR
     API <--> Mongo[(MongoDB<br/>JWT-scoped)]
 ```
 
-**Highlights**
-🔹 RAG pipeline: chunk → embed → vector search → GPT-4o-mini generation
-🔹 Streaming responses via Server-Sent Events (token-by-token)
-🔹 Multi-turn memory across last 6 exchanges
-🔹 Per-user vector isolation with Pinecone namespaces
-🔹 Async background indexing with startup cleanup for orphaned documents
+### Request Flow — the SSE edge case, visualized
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor U as User
+    participant API as Express API
+    participant P as Pinecone
+    participant L as GPT-4o-mini
+
+    U->>API: POST /ask (question + JWT)
+    API->>API: verify JWT → userId
+    API->>P: vector search (namespace = userId)
+    P-->>API: top-k chunks
+    API-->>U: 200 OK · SSE headers sent
+    API->>L: prompt + retrieved context
+
+    loop token stream
+        L-->>API: token
+        API-->>U: data: <token>
+    end
+
+    rect rgb(60, 30, 30)
+    Note over API,L: ⚠️ if LLM crashes mid-stream:<br/>res.headersSent === true → can't send 500.<br/>Push error frame down the open SSE channel<br/>so the frontend never hangs.
+    end
+
+    L-->>API: [DONE]
+    API-->>U: data: [DONE] · close stream
+```
+
+**Highlights** *(numbers measured on production deploy — see "How I measured" below)*
+🔹 **RAG pipeline** — chunk → embed → top-`{TBD}` vector search → GPT-4o-mini generation
+🔹 **Streaming via SSE** — token-by-token · **first token `<{TBD}` ms p95** · full response avg `~{TBD}` s
+🔹 **Multi-turn memory** — last 6 exchanges, `~{TBD}` k token rolling window
+🔹 **Per-user isolation** — Pinecone namespace per JWT-extracted `userId` (never user-supplied)
+🔹 **Async indexing** — background worker + startup cleanup for orphaned documents
 
 **⚡ Key Engineering Challenges**
 🔸 SSE protocol edge case — once HTTP headers are sent, normal error responses are impossible. Solved by detecting `res.headersSent` and pushing LLM crash errors down the open stream so the frontend never hangs mid-response
@@ -131,6 +169,10 @@ flowchart LR
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/output/github-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&hide_border=true&area=true&custom_title=Commit%20Frequency%20%C2%B7%20Last%2031%20Days" width="100%" alt="Commit activity graph" />
 </p>
 
 <p align="center">
