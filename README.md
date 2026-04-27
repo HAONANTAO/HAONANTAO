@@ -2,10 +2,6 @@
   <img src="./assets/banner.svg" width="100%" alt="Aaron TAO – AI Engineer & Full-Stack Builder" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+Engineer+%C3%97+Full-Stack+Builder;Shipping+RAG+systems+from+Melbourne+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/2025.09.11Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
@@ -28,6 +24,8 @@ I'm Aaron, an AI Engineer in Melbourne 🇦🇺. **Monash CS · University of Me
 
 These days I'm obsessed with **multi-tenant RAG**, **streaming UX**, and **agent loops that don't hallucinate**.
 
+Currently building **[SkillPath](https://github.com/HAONANTAO/skillpath)** — an AI Learning Coach with agent-driven roadmaps and adaptive quizzes.
+
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <h2 align="center">🧭 How I build</h2>
@@ -36,32 +34,6 @@ These days I'm obsessed with **multi-tenant RAG**, **streaming UX**, and **agent
 - **Numbers over adjectives.** "Fast" means nothing; `<400ms p95` does.
 - **Architecture before code.** I draw the system before writing the first line.
 - **AI-augmented, human-verified.** I lean on Claude Code daily, but I read every line that ships.
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">🎯 Now</h2>
-
-Currently in **Melbourne 🇦🇺**, actively interviewing for AI Engineer roles. Building **SkillPath v2** (AI-powered personalized learning) on the side.
-
-<a href="https://github.com/HAONANTAO/HAONANTAO/commits/main"><img src="https://img.shields.io/github/last-commit/HAONANTAO/HAONANTAO?label=README%20updated&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">📚 Currently Learning</h2>
-
-- 🤖 **AI Agents** — ReAct, LangGraph, agentic eval (foundation for SkillPath v2)
-- 📖 *Designing Machine Learning Systems* — Chip Huyen
-- 📖 *Building LLM Applications* — Hamel Husain (working notes)
-- 📰 arxiv: weekly skim — recent: structured outputs, retrieval eval, prompt caching
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">⚡ Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<sub><i>Auto-updated every 6 hours via GitHub Actions.</i></sub>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -81,26 +53,6 @@ Currently in **Melbourne 🇦🇺**, actively interviewing for AI Engineer roles
   <img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Pinecone-6d28d9?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/SSE-0ea5e9?style=flat-square&labelColor=0d1117" />
-</p>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">🚧 Currently Building</h2>
-
-<p align="center">
-  <a href="https://github.com/HAONANTAO/skillpath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAONANTAO&repo=skillpath&theme=tokyonight&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="SkillPath" />
-  </a>
-</p>
-
-<p align="center">
-  Building in public — designing the agent loop with RAG-augmented retrieval. v2 in active development.
-</p>
-
-<p align="center">
-  <a href="https://github.com/HAONANTAO/skillpath"><img src="https://img.shields.io/github/last-commit/HAONANTAO/skillpath?label=Last%20commit&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
-  <a href="https://github.com/HAONANTAO/skillpath/stargazers"><img src="https://img.shields.io/github/stars/HAONANTAO/skillpath?style=flat-square&color=a371f7&labelColor=0d1117" /></a>
-  <a href="https://github.com/HAONANTAO/skillpath"><img src="https://img.shields.io/badge/status-WIP-f59e0b?style=flat-square&labelColor=0d1117" /></a>
 </p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
@@ -141,10 +93,10 @@ flowchart LR
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">🚀 More AI Work</h2>
+<h2 align="center">🚀 More Work</h2>
 
 <p align="center">
-  Selected from <b>38+ public repos</b> — more on <a href="https://www.aarontao.com/">aarontao.com</a>
+  A curated slice — full archive on <a href="https://www.aarontao.com/">aarontao.com</a>
 </p>
 
 <table align="center">
@@ -156,23 +108,10 @@ flowchart LR
       <a href="https://github.com/HAONANTAO/ai-customer-support-system"><img src="https://img.shields.io/github/languages/top/HAONANTAO/ai-customer-support-system?style=flat-square&color=a371f7&labelColor=0d1117" /></a>
     </td>
     <td valign="top" width="50%">
-      <h3>💬 <a href="https://github.com/HAONANTAO/Mock_AI_ChatBot">Mock_AI_ChatBot</a></h3>
-      <p>AI chatbot interface with custom prompt logic.</p>
-      <a href="https://github.com/HAONANTAO/Mock_AI_ChatBot"><img src="https://img.shields.io/github/last-commit/HAONANTAO/Mock_AI_ChatBot?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
-      <a href="https://github.com/HAONANTAO/Mock_AI_ChatBot"><img src="https://img.shields.io/github/languages/top/HAONANTAO/Mock_AI_ChatBot?style=flat-square&color=a371f7&labelColor=0d1117" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 <a href="https://github.com/HAONANTAO/AI-Brain">AI-Brain</a></h3>
-      <p>Obsidian-based AI knowledge vault — notes, prompts, learnings.</p>
-      <a href="https://github.com/HAONANTAO/AI-Brain"><img src="https://img.shields.io/github/last-commit/HAONANTAO/AI-Brain?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🛒 <a href="https://github.com/HAONANTAO/E-Commerce-Rabbit">E-Commerce-Rabbit</a></h3>
-      <p>Full-stack MERN e-commerce — auth, cart, checkout, admin.</p>
-      <a href="https://github.com/HAONANTAO/E-Commerce-Rabbit"><img src="https://img.shields.io/github/last-commit/HAONANTAO/E-Commerce-Rabbit?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
-      <a href="https://github.com/HAONANTAO/E-Commerce-Rabbit"><img src="https://img.shields.io/github/languages/top/HAONANTAO/E-Commerce-Rabbit?style=flat-square&color=a371f7&labelColor=0d1117" /></a>
+      <h3>📱 <a href="https://github.com/HAONANTAO/Money_Recorder">Money Recorder</a></h3>
+      <p>Personal finance iOS app — React Native + Expo, live on the App Store.</p>
+      <a href="https://github.com/HAONANTAO/Money_Recorder"><img src="https://img.shields.io/github/last-commit/HAONANTAO/Money_Recorder?style=flat-square&label=last%20commit&color=58a6ff&labelColor=0d1117" /></a>
+      <img src="https://img.shields.io/badge/iOS-App%20Store-000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117" />
     </td>
   </tr>
 </table>
