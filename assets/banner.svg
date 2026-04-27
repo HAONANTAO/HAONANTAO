@@ -191,7 +191,7 @@
   <!-- Subtitle -->
   <text class="sub" x="450" y="168" text-anchor="middle"
     font-family="'Courier New',Courier,monospace" font-size="13" letter-spacing="5"
-    fill="#58a6ff" filter="url(#glow)">AI ENGINEER · FULL-STACK · MELBOURNE</text>
+    fill="#58a6ff" filter="url(#glow)">RAG SYSTEMS · LLM AGENTS · MELBOURNE</text>
 
   <!-- Divider dots -->
   <g fill="#58a6ff" filter="url(#glow)">
@@ -201,33 +201,33 @@
 
   <!-- Tech tags -->
   <g font-family="'Courier New',Courier,monospace" font-size="10.5" letter-spacing="0.5">
-    <rect x="216" y="192" width="54"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
-    <rect x="216" y="192" width="54"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
-    <text x="243" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">React</text>
+    <rect x="211" y="192" width="56"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
+    <rect x="211" y="192" width="56"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
+    <text x="239" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">Python</text>
 
-    <rect x="277" y="192" width="60"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
-    <rect x="277" y="192" width="60"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
-    <text x="307" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">Node.js</text>
+    <rect x="274" y="192" width="78"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
+    <rect x="274" y="192" width="78"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
+    <text x="313" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">LangChain</text>
 
-    <rect x="344" y="192" width="68"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
-    <rect x="344" y="192" width="68"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
-    <text x="378" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">MongoDB</text>
+    <rect x="359" y="192" width="36"  height="20" rx="3" fill="#58a6ff" opacity="0.08"/>
+    <rect x="359" y="192" width="36"  height="20" rx="3" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.55"/>
+    <text x="377" y="206" text-anchor="middle" fill="#58a6ff" opacity="0.9">RAG</text>
 
-    <rect x="419" y="192" width="44"  height="20" rx="3" fill="#a371f7" opacity="0.08"/>
-    <rect x="419" y="192" width="44"  height="20" rx="3" fill="none" stroke="#a371f7" stroke-width="0.7" opacity="0.55"/>
-    <text x="441" y="206" text-anchor="middle" fill="#a371f7" opacity="0.9">AWS</text>
+    <rect x="402" y="192" width="56"  height="20" rx="3" fill="#a371f7" opacity="0.08"/>
+    <rect x="402" y="192" width="56"  height="20" rx="3" fill="none" stroke="#a371f7" stroke-width="0.7" opacity="0.55"/>
+    <text x="430" y="206" text-anchor="middle" fill="#a371f7" opacity="0.9">OpenAI</text>
 
-    <rect x="470" y="192" width="78"  height="20" rx="3" fill="#a371f7" opacity="0.08"/>
-    <rect x="470" y="192" width="78"  height="20" rx="3" fill="none" stroke="#a371f7" stroke-width="0.7" opacity="0.55"/>
-    <text x="509" y="206" text-anchor="middle" fill="#a371f7" opacity="0.9">TypeScript</text>
+    <rect x="465" y="192" width="70"  height="20" rx="3" fill="#a371f7" opacity="0.08"/>
+    <rect x="465" y="192" width="70"  height="20" rx="3" fill="none" stroke="#a371f7" stroke-width="0.7" opacity="0.55"/>
+    <text x="500" y="206" text-anchor="middle" fill="#a371f7" opacity="0.9">Pinecone</text>
 
-    <rect x="555" y="192" width="92"  height="20" rx="3" fill="#f778ba" opacity="0.08"/>
-    <rect x="555" y="192" width="92"  height="20" rx="3" fill="none" stroke="#f778ba" stroke-width="0.7" opacity="0.55"/>
-    <text x="601" y="206" text-anchor="middle" fill="#f778ba" opacity="0.9">React Native</text>
+    <rect x="542" y="192" width="62"  height="20" rx="3" fill="#f778ba" opacity="0.08"/>
+    <rect x="542" y="192" width="62"  height="20" rx="3" fill="none" stroke="#f778ba" stroke-width="0.7" opacity="0.55"/>
+    <text x="573" y="206" text-anchor="middle" fill="#f778ba" opacity="0.9">Next.js</text>
 
-    <rect x="654" y="192" width="30"  height="20" rx="3" fill="#f778ba" opacity="0.08"/>
-    <rect x="654" y="192" width="30"  height="20" rx="3" fill="none" stroke="#f778ba" stroke-width="0.7" opacity="0.55"/>
-    <text x="669" y="206" text-anchor="middle" fill="#f778ba" opacity="0.9">AI</text>
+    <rect x="611" y="192" width="78"  height="20" rx="3" fill="#f778ba" opacity="0.08"/>
+    <rect x="611" y="192" width="78"  height="20" rx="3" fill="none" stroke="#f778ba" stroke-width="0.7" opacity="0.55"/>
+    <text x="650" y="206" text-anchor="middle" fill="#f778ba" opacity="0.9">TypeScript</text>
   </g>
 
   <!-- Cursor blink -->
