@@ -45,29 +45,6 @@
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">🧭 How I work</h2>
-
-<table align="center">
-  <tr>
-    <td>🚢 <b>Ship to learn</b></td>
-    <td><sub>v1 in production teaches faster than v3 on slides.</sub></td>
-  </tr>
-  <tr>
-    <td>📊 <b>Measure, don't claim</b></td>
-    <td><sub><code>&lt;400ms p95</code> is data. "fast" is noise.</sub></td>
-  </tr>
-  <tr>
-    <td>🗺 <b>Diagram first, code second</b></td>
-    <td><sub>every project starts with a system sketch — saves rewrites later.</sub></td>
-  </tr>
-  <tr>
-    <td>🤝 <b>AI-paired, human-verified</b></td>
-    <td><sub>Claude Code daily — every line gets reviewed before merge.</sub></td>
-  </tr>
-</table>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <table align="center">
