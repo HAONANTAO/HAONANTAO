@@ -3,185 +3,128 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/HAONANTAO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=A371F7&center=true&vCenter=true&width=560&height=44&lines=AI+is+changing+the+world.;I%27m+here+to+ship+parts+of+it." alt="AI is changing the world. I'm here to ship parts of it." />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/2025.09.11Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/resume0428.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HAONANTAO"><img src="https://img.shields.io/github/followers/HAONANTAO?style=flat&logo=github&label=Followers&color=181717&logoColor=white" /></a>
 </p>
 
-> 📬 **Open to AI Engineer roles** in Melbourne or remote across Australia.
-> Reach me at **taoaaron5@gmail.com** — I usually reply within a day.
+<p align="center">
+  👋 <b>I'm Aaron</b> — engineer in Melbourne 🇦🇺.<br/>
+  Currently shipping <a href="https://github.com/HAONANTAO/DocuMind"><b>DocuMind</b></a>, a multi-tenant RAG SaaS for document Q&A.<br/>
+  Earlier life: 6+ shipped projects across web, mobile, and commerce.
+</p>
+
+<p align="center">
+  <sub><i>Going deep on production RAG — retrieval, streaming UX, multi-tenant isolation.</i></sub>
+</p>
+
+<p align="center">
+  <sub><i>Available for AI engineering roles · Melbourne or remote across Australia.</i></sub>
+</p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">👋 whoami</h2>
-
-<p align="center">
-  <b>Aaron — AI Engineer in Melbourne 🇦🇺.</b><br/>
-  I build AI products that <b>ship to real users</b>, not demos for slides.
-</p>
-
-<p align="center">
-  🎓 <b>Monash CS</b> &nbsp;·&nbsp; <b>UoM IT</b> &nbsp;·&nbsp; 🇦🇺 <b>Australian PR</b> &nbsp;·&nbsp; 🚢 <b>6+ projects shipped</b> &nbsp;·&nbsp; 📱 <b>1 on App Store</b>
-</p>
+<h3 align="center">— about —</h3>
 
 <table align="center">
   <tr>
-    <td align="center">🤖 <b>Shipping</b></td>
-    <td><a href="https://docu-mind-neon.vercel.app"><b>DocuMind</b></a></td>
-    <td><sub>multi-tenant RAG SaaS · token streaming · per-user vector isolation</sub></td>
+    <td align="right"><sub>based in</sub></td>
+    <td><b>Melbourne, Australia</b> 🇦🇺 <sub><i>· Australian PR</i></sub></td>
   </tr>
   <tr>
-    <td align="center">🧭 <b>Building</b></td>
-    <td><a href="https://github.com/HAONANTAO/skillpath"><b>SkillPath</b></a></td>
-    <td><sub>AI Learning Coach · agent-driven roadmaps · adaptive quizzes</sub></td>
+    <td align="right"><sub>schooling</sub></td>
+    <td><b>Monash CS</b> · <b>UoM IT</b></td>
   </tr>
   <tr>
-    <td align="center">🎯 <b>Going deep on</b></td>
-    <td colspan="2"><sub>multi-tenant RAG &nbsp;·&nbsp; streaming UX &nbsp;·&nbsp; agent loops</sub></td>
+    <td align="right"><sub>credentials</sub></td>
+    <td><b>AWS Cloud Practitioner</b> · <b>PMP®</b></td>
+  </tr>
+  <tr>
+    <td align="right"><sub>open to</sub></td>
+    <td><i>AI Engineer roles · Melbourne or remote across Australia</i></td>
+  </tr>
+  <tr>
+    <td align="right"><sub>believes</sub></td>
+    <td><i>AI is changing the world — and engineers should ship the parts they can</i></td>
   </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">🛠 Tech Stack</h2>
+<h3 align="center">— stack —</h3>
 
 <table align="center">
   <tr>
-    <td align="right"><sub><b>AI / LLM</b></sub></td>
+    <td align="right"><sub><i>daily drivers</i></sub></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Claude-c96442?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/SSE_Streaming-0ea5e9?style=flat-square&labelColor=0d1117" />
+      <code>TypeScript</code> &nbsp; <code>React / Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>Tailwind</code> &nbsp; <code>shadcn/ui</code>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>Languages</b></sub></td>
+    <td align="right"><sub><i>going deep on</i></sub></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
+      <code>OpenAI</code> &nbsp; <code>LangChain</code> &nbsp; <code>Pinecone</code> &nbsp; <code>Python</code> &nbsp; <code>RAG</code> &nbsp; <code>SSE streaming</code>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td align="right"><sub><i>comfortable with</i></sub></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Backend</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Data</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Pinecone-6d28d9?style=flat-square&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Cloud / DevOps</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white&labelColor=0d1117" />
+      <code>MongoDB</code> &nbsp; <code>Express</code> &nbsp; <code>AWS</code> &nbsp; <code>Docker</code> &nbsp; <code>Vercel</code> &nbsp; <code>Stripe</code> &nbsp; <code>Clerk</code> &nbsp; <code>Prisma</code>
     </td>
   </tr>
 </table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">💻 Featured Project</h2>
-
-**🤖 [DocuMind](https://docu-mind-neon.vercel.app)** &nbsp;[![DocuMind](https://img.shields.io/badge/-DocuMind-8e44ad?style=flat-square&logo=github&logoColor=white)](https://github.com/HAONANTAO/DocuMind)
-AI-powered document Q&A SaaS — upload a PDF, ask questions, get answers with source citations using RAG.
-
-### Architecture
-
-```mermaid
-flowchart LR
-    User([👤 User]) -- question --> API[Express API]
-    PDF([📄 PDF upload]) --> Indexer[Async Indexer]
-    Indexer -- chunk + embed --> Pinecone[(Pinecone<br/>per-user namespace)]
-    API -- retrieve top-k --> Pinecone
-    API -- prompt + context --> LLM[GPT-4o-mini]
-    LLM -- token stream --> SSE{{SSE channel}}
-    SSE -- live tokens --> User
-    API <--> Mongo[(MongoDB<br/>JWT-scoped)]
-```
-
-### Request Flow — the SSE edge case, visualized
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor U as User
-    participant API as Express API
-    participant P as Pinecone
-    participant L as GPT-4o-mini
-
-    U->>API: POST /ask (question + JWT)
-    API->>API: verify JWT → userId
-    API->>P: vector search (namespace = userId)
-    P-->>API: top-k chunks
-    API-->>U: 200 OK · SSE headers sent
-    API->>L: prompt + retrieved context
-
-    loop token stream
-        L-->>API: token
-        API-->>U: data: <token>
-    end
-
-    rect rgb(60, 30, 30)
-    Note over API,L: ⚠️ if LLM crashes mid-stream:<br/>res.headersSent === true → can't send 500.<br/>Push error frame down the open SSE channel<br/>so the frontend never hangs.
-    end
-
-    L-->>API: [DONE]
-    API-->>U: data: [DONE] · close stream
-```
-
-**Highlights**
-🔹 **RAG pipeline** — chunk (1k char, 200 overlap) → embed (`text-embedding-3-small`) → **top-5** Pinecone search → `gpt-4o-mini` @ `temperature: 0`
-🔹 **Streaming via SSE** — token-by-token output via Server-Sent Events (no wait-for-full-JSON blocking)
-🔹 **Multi-turn memory** — 6-message rolling window, capped for predictable token budget
-🔹 **Per-user isolation** — Pinecone namespace per JWT-extracted `userId` (never user-supplied)
-🔹 **Async indexing** — background worker + startup cleanup for orphaned documents
-
-**⚡ Key Engineering Challenges**
-🔸 SSE protocol edge case — once HTTP headers are sent, normal error responses are impossible. Solved by detecting `res.headersSent` and pushing LLM crash errors down the open stream so the frontend never hangs mid-response
-🔸 Multi-tenancy isolation at two layers: MongoDB queries filter by JWT-extracted `userId` (never user-supplied), Pinecone vectors isolated per-user namespace — delete is atomic (MongoDB first, Pinecone in try-catch) to prevent orphaned vectors on DB failure
-
-**Tech:** React 19, Node.js/Express 5, MongoDB, Pinecone, OpenAI GPT-4o-mini, LangChain, Vercel/Render
-
-<img src="https://raw.githubusercontent.com/HAONANTAO/DocuMind/main/DocuMind.png" width="600" alt="DocuMind – AI Document Q&A" />
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h2 align="center">🚀 More Work</h2>
+<h2 align="center">DocuMind</h2>
 
 <p align="center">
-  Full archive of projects, write-ups, and case studies on <b>aarontao.com</b>.
+  <i>Upload a PDF, ask questions, get cited answers in real time.</i><br/>
+  <sub>Production RAG SaaS · token streaming · multi-tenant.</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/HAONANTAO?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://docu-mind-neon.vercel.app">
+    <img src="https://raw.githubusercontent.com/HAONANTAO/DocuMind/main/DocuMind.png" width="640" alt="DocuMind – AI Document Q&A" />
+  </a>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<p align="center">
+  <a href="https://docu-mind-neon.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/HAONANTAO/DocuMind"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<h2 align="center">🐍 Coding Trail</h2>
+<h3 align="center">— also worth a look —</h3>
+
+<table align="center">
+  <tr>
+    <td align="right"><a href="https://all-storage.vercel.app"><b>All Storage</b></a></td>
+    <td><sub><i>cloud storage · passwordless OTP · real-time sync</i></sub></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="http://www.taohaonan.com/"><b>Mock Threads</b></a></td>
+    <td><sub><i>threaded social platform · Next.js App Router · Clerk</i></sub></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://evently-three-kohl.vercel.app/"><b>Evently</b></a></td>
+    <td><sub><i>event platform · Stripe + Clerk SSO</i></sub></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://www.wanyancanrui.com/"><b>E-Commerce Rabbit</b></a></td>
+    <td><sub><i>full-stack commerce · PayPal · Cloudinary</i></sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><i>Full archive on <a href="https://www.aarontao.com/"><b>aarontao.com</b></a> · all repos on <a href="https://github.com/HAONANTAO?tab=repositories"><b>GitHub</b></a></i></sub>
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -192,13 +135,5 @@ sequenceDiagram
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAONANTAO&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&hide_border=true&area=true&custom_title=Commit%20Frequency%20%C2%B7%20Last%2031%20Days" width="100%" alt="Commit activity graph" />
-</p>
-
-<p align="center">
-  <code>$ aaron --status=shipping --location=melbourne --version=2026</code>
-</p>
-
-<p align="center">
-  <sub><a href="https://www.aarontao.com/">aarontao.com</a> · <a href="mailto:taoaaron5@gmail.com">taoaaron5@gmail.com</a></sub>
+  <sub><i>Aaron Tao &nbsp;·&nbsp; Melbourne 🇦🇺 &nbsp;·&nbsp; <a href="mailto:taoaaron5@gmail.com">taoaaron5@gmail.com</a></i></sub>
 </p>
