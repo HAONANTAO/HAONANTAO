@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/HAONANTAO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=A371F7&center=true&vCenter=true&width=560&height=44&lines=AI+is+changing+the+world.;I%27m+here+to+ship+parts+of+it." alt="AI is changing the world. I'm here to ship parts of it." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=A371F7&center=true&vCenter=true&width=620&height=44&lines=PMP-certified+engineer+who+ships+RAG.;I+scope+what+I+build%2C+and+I+build+what+I+scope." alt="PMP-certified engineer who ships RAG. I scope what I build, and I build what I scope." />
   </a>
 </p>
 
@@ -16,76 +16,21 @@
 </p>
 
 <p align="center">
-  👋 <b>I'm Aaron</b> — engineer in Melbourne 🇦🇺.<br/>
-  Currently shipping <a href="https://github.com/HAONANTAO/DocuMind"><b>DocuMind</b></a>, a multi-tenant RAG SaaS for document Q&A.<br/>
-  Earlier life: 6+ shipped projects across web, mobile, and commerce.
+  Currently building <a href="https://github.com/HAONANTAO/DocuMind"><b>DocuMind</b></a> — a multi-tenant RAG SaaS for document Q&A.<br/>
+  <sub><i>Open to AI engineering roles · Melbourne or remote across Australia · Australian PR</i></sub>
 </p>
 
 <p align="center">
-  <sub><i>Going deep on production RAG — retrieval, streaming UX, multi-tenant isolation.</i></sub>
+  <sub><i>Mostly <b>TypeScript</b> · going deep on production RAG · comfortable across the modern web stack.</i></sub>
 </p>
-
-<p align="center">
-  <sub><i>Available for AI engineering roles · Melbourne or remote across Australia.</i></sub>
-</p>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-<h3 align="center">— about —</h3>
-
-<table align="center">
-  <tr>
-    <td align="right"><sub>based in</sub></td>
-    <td><b>Melbourne, Australia</b> 🇦🇺 <sub><i>· Australian PR</i></sub></td>
-  </tr>
-  <tr>
-    <td align="right"><sub>schooling</sub></td>
-    <td><b>Monash CS</b> · <b>UoM IT</b></td>
-  </tr>
-  <tr>
-    <td align="right"><sub>credentials</sub></td>
-    <td><b>AWS Cloud Practitioner</b> · <b>PMP®</b></td>
-  </tr>
-  <tr>
-    <td align="right"><sub>open to</sub></td>
-    <td><i>AI Engineer roles · Melbourne or remote across Australia</i></td>
-  </tr>
-  <tr>
-    <td align="right"><sub>believes</sub></td>
-    <td><i>AI is changing the world — and engineers should ship the parts they can</i></td>
-  </tr>
-</table>
-
-<h3 align="center">— stack —</h3>
-
-<table align="center">
-  <tr>
-    <td align="right"><sub><i>daily drivers</i></sub></td>
-    <td>
-      <code>TypeScript</code> &nbsp; <code>React / Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>Tailwind</code> &nbsp; <code>shadcn/ui</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><i>going deep on</i></sub></td>
-    <td>
-      <code>OpenAI</code> &nbsp; <code>LangChain</code> &nbsp; <code>Pinecone</code> &nbsp; <code>Python</code> &nbsp; <code>RAG</code> &nbsp; <code>SSE streaming</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><sub><i>comfortable with</i></sub></td>
-    <td>
-      <code>MongoDB</code> &nbsp; <code>Express</code> &nbsp; <code>AWS</code> &nbsp; <code>Docker</code> &nbsp; <code>Vercel</code> &nbsp; <code>Stripe</code> &nbsp; <code>Clerk</code> &nbsp; <code>Prisma</code>
-    </td>
-  </tr>
-</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <h2 align="center">DocuMind</h2>
 
 <p align="center">
-  <i>Upload a PDF, ask questions, get cited answers in real time.</i><br/>
-  <sub>Production RAG SaaS · token streaming · multi-tenant.</sub>
+  <i>Upload a PDF. Ask questions. Get cited answers in real time.</i><br/>
+  <sub>Built on <b>TypeScript</b> · <b>Pinecone</b> · <b>OpenAI</b> streaming.</sub>
 </p>
 
 <p align="center">
@@ -104,19 +49,15 @@
 <table align="center">
   <tr>
     <td align="right"><a href="https://all-storage.vercel.app"><b>All Storage</b></a></td>
-    <td><sub><i>cloud storage · passwordless OTP · real-time sync</i></sub></td>
+    <td><sub><i>Dropbox-style cloud storage with passwordless login</i></sub></td>
   </tr>
   <tr>
     <td align="right"><a href="http://www.taohaonan.com/"><b>Mock Threads</b></a></td>
-    <td><sub><i>threaded social platform · Next.js App Router · Clerk</i></sub></td>
+    <td><sub><i>Threads-style social feed, end-to-end</i></sub></td>
   </tr>
   <tr>
     <td align="right"><a href="https://evently-three-kohl.vercel.app/"><b>Evently</b></a></td>
-    <td><sub><i>event platform · Stripe + Clerk SSO</i></sub></td>
-  </tr>
-  <tr>
-    <td align="right"><a href="https://www.wanyancanrui.com/"><b>E-Commerce Rabbit</b></a></td>
-    <td><sub><i>full-stack commerce · PayPal · Cloudinary</i></sub></td>
+    <td><sub><i>Eventbrite-style event marketplace with paid tickets</i></sub></td>
   </tr>
 </table>
 
