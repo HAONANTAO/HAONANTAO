@@ -48,6 +48,13 @@
 
 <table align="center">
   <tr>
+    <td align="right"><a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba"><b>JD Analyzer</b></a></td>
+    <td>
+      <sub><i>Chrome extension that scores your resume against any job description — BYO key, no backend</i></sub><br/>
+      <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba"><img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Install from Chrome Web Store" /></a>
+    </td>
+  </tr>
+  <tr>
     <td align="right"><a href="https://all-storage.vercel.app"><b>All Storage</b></a></td>
     <td><sub><i>Dropbox-style cloud storage with passwordless login</i></sub></td>
   </tr>
