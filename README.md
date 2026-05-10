@@ -4,24 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/HAONANTAO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=A371F7&center=true&vCenter=true&width=620&height=44&lines=PMP-certified+engineer+who+ships+RAG.;I+scope+what+I+build%2C+and+I+build+what+I+scope." alt="PMP-certified engineer who ships RAG. I scope what I build, and I build what I scope." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=A371F7&center=true&vCenter=true&width=620&height=48&lines=AI+Fullstack+Developer" alt="AI Fullstack Developer" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/resume0428.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  Currently building <a href="https://github.com/HAONANTAO/DocuMind"><b>DocuMind</b></a> — a multi-tenant RAG SaaS for document Q&A.<br/>
-  <sub><i>Open to AI engineering roles · Melbourne or remote across Australia · Australian PR</i></sub>
-</p>
-
-<p align="center">
-  <sub><i>Mostly <b>TypeScript</b> · going deep on production RAG · comfortable across the modern web stack.</i></sub>
+  <sub><i>Open to AI engineering & full-stack roles · Melbourne or remote across Australia · Australian PR · PMP-certified</i></sub>
 </p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
@@ -29,8 +24,8 @@
 <h2 align="center">DocuMind</h2>
 
 <p align="center">
-  <i>Upload a PDF. Ask questions. Get cited answers in real time.</i><br/>
-  <sub>Built on <b>TypeScript</b> · <b>Pinecone</b> · <b>OpenAI</b> streaming.</sub>
+  <i>Multi-tenant RAG SaaS — upload a PDF, ask questions, get streamed answers with inline citations.</i><br/>
+  <sub>Built on <b>TypeScript</b> · <b>Pinecone</b> vector store · <b>OpenAI</b> embeddings + streaming completions.</sub>
 </p>
 
 <p align="center">
@@ -44,29 +39,42 @@
   <a href="https://github.com/HAONANTAO/DocuMind"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="center">— also worth a look —</h3>
+<details>
+<summary align="center"><sub><i>&nbsp;&nbsp;architecture &nbsp;·&nbsp; click to expand&nbsp;&nbsp;</i></sub></summary>
 
-<table align="center">
-  <tr>
-    <td align="right"><a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba"><b>JD Analyzer</b></a></td>
-    <td>
-      <sub><i>Chrome extension that scores your resume against any job description — BYO key, no backend</i></sub><br/>
-      <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba"><img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Install from Chrome Web Store" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><a href="https://all-storage.vercel.app"><b>All Storage</b></a></td>
-    <td><sub><i>Dropbox-style cloud storage with passwordless login</i></sub></td>
-  </tr>
-  <tr>
-    <td align="right"><a href="http://www.taohaonan.com/"><b>Mock Threads</b></a></td>
-    <td><sub><i>Threads-style social feed, end-to-end</i></sub></td>
-  </tr>
-  <tr>
-    <td align="right"><a href="https://evently-three-kohl.vercel.app/"><b>Evently</b></a></td>
-    <td><sub><i>Eventbrite-style event marketplace with paid tickets</i></sub></td>
-  </tr>
-</table>
+```mermaid
+flowchart LR
+    PDF[PDF Upload] --> CHUNK[Chunk]
+    CHUNK --> EMBED[Embed]
+    EMBED --> VS[(Pinecone)]
+    Q[User Query] --> QE[Embed]
+    QE --> VS
+    VS --> CTX[Top-k Context]
+    CTX --> LLM[OpenAI<br/>streaming]
+    LLM --> OUT[Cited Answer]
+
+    classDef store fill:#a371f7,stroke:#6e40c9,color:#fff;
+    classDef io fill:#161b22,stroke:#30363d,color:#e6edf3;
+    classDef llm fill:#412991,stroke:#412991,color:#fff;
+    class VS store;
+    class PDF,Q,OUT io;
+    class LLM llm;
+```
+
+</details>
+
+<h2 align="center">JD Analyzer</h2>
+
+<p align="center">
+  <i>Chrome extension that scores your resume against any job description.</i><br/>
+  <sub>Live on the Chrome Web Store · BYO OpenAI key, zero backend — all inference runs against the user's own key.</sub>
+</p>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba">
+    <img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install from Chrome Web Store" />
+  </a>
+</p>
 
 <p align="center">
   <sub><i>Full archive on <a href="https://www.aarontao.com/"><b>aarontao.com</b></a> · all repos on <a href="https://github.com/HAONANTAO?tab=repositories"><b>GitHub</b></a></i></sub>
@@ -83,5 +91,5 @@
 </p>
 
 <p align="center">
-  <sub><i>Aaron Tao &nbsp;·&nbsp; Melbourne 🇦🇺 &nbsp;·&nbsp; <a href="mailto:taoaaron5@gmail.com">taoaaron5@gmail.com</a></i></sub>
+  <sub><i>Aaron Tao &nbsp;·&nbsp; Melbourne 🇦🇺</i></sub>
 </p>
