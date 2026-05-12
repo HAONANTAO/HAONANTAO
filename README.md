@@ -4,28 +4,48 @@
 
 <p align="center">
   <a href="https://github.com/HAONANTAO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=A371F7&center=true&vCenter=true&width=620&height=48&lines=AI+Fullstack+Developer" alt="AI Fullstack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=A371F7&center=true&vCenter=true&width=720&height=48&lines=Junior+Fullstack+%2B+AI+Developer+%C2%B7+Melbourne+%F0%9F%87%A6%F0%9F%87%BA;MERN+stack+with+AI+superpowers" alt="Junior Fullstack + AI Developer" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.aarontao.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://raw.githubusercontent.com/HAONANTAO/HAONANTAO/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/haonan-tao-aaron/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:taoaaron5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <sub><i>Open to AI engineering & full-stack roles · Melbourne or remote across Australia · Australian PR · PMP-certified</i></sub>
+  <a href="https://www.aarontao.com/">
+    <img src="./assets/portfolio-cta.svg" width="460" alt="$ npx portfolio — opens aarontao.com" />
+  </a>
 </p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<h2 align="center">DocuMind</h2>
+<h2 align="center">🧠 How I work</h2>
+
+<p align="center">
+  <sub>
+    <b>Curious by default, careful in production</b> &nbsp;·&nbsp;
+    <b>Ship small, learn faster</b> &nbsp;·&nbsp;
+    <b>Comfortable saying "I don't know yet"</b>
+  </sub>
+</p>
+
+<h2 align="center">🛠️ Stack</h2>
+
+<div align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Stack — MERN + AI" />
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+<h2 align="center">🚀 DocuMind <sub><i>— featured project</i></sub></h2>
 
 <p align="center">
   <i>Multi-tenant RAG SaaS — upload a PDF, ask questions, get streamed answers with inline citations.</i><br/>
-  <sub>Built on <b>TypeScript</b> · <b>Pinecone</b> vector store · <b>OpenAI</b> embeddings + streaming completions.</sub>
+  <sub><b>Why I built it:</b> to learn production-grade RAG end-to-end — not a notebook demo, but auth, multi-tenancy, vector search, and streaming UX wired together.</sub><br/>
+  <sub><b>Hardest part:</b> chunking strategy for mixed PDFs (tables + prose) — landed on a hybrid semantic + size-based approach.</sub>
 </p>
 
 <p align="center">
@@ -39,35 +59,17 @@
   <a href="https://github.com/HAONANTAO/DocuMind"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<details>
-<summary align="center"><sub><i>&nbsp;&nbsp;architecture &nbsp;·&nbsp; click to expand&nbsp;&nbsp;</i></sub></summary>
-
-```mermaid
-flowchart LR
-    PDF[PDF Upload] --> CHUNK[Chunk]
-    CHUNK --> EMBED[Embed]
-    EMBED --> VS[(Pinecone)]
-    Q[User Query] --> QE[Embed]
-    QE --> VS
-    VS --> CTX[Top-k Context]
-    CTX --> LLM[OpenAI<br/>streaming]
-    LLM --> OUT[Cited Answer]
-
-    classDef store fill:#a371f7,stroke:#6e40c9,color:#fff;
-    classDef io fill:#161b22,stroke:#30363d,color:#e6edf3;
-    classDef llm fill:#412991,stroke:#412991,color:#fff;
-    class VS store;
-    class PDF,Q,OUT io;
-    class LLM llm;
-```
-
-</details>
-
-<h2 align="center">JD Analyzer</h2>
+<h2 align="center">🧩 JD Analyzer <sub><i>— side project, live on Chrome Web Store</i></sub></h2>
 
 <p align="center">
-  <i>Chrome extension that scores your resume against any job description.</i><br/>
-  <sub>Live on the Chrome Web Store · BYO OpenAI key, zero backend — all inference runs against the user's own key.</sub>
+  <i>Chrome extension that scores your resume against any job description in one click.</i><br/>
+  <sub><b>Design choice:</b> BYO OpenAI key, zero backend — users' resumes never touch my server.</sub>
+</p>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba">
+    <img src="./assets/jd.png" width="640" alt="JD Analyzer – Resume vs JD scoring" />
+  </a>
 </p>
 
 <p align="center">
@@ -80,7 +82,7 @@ flowchart LR
   <sub><i>Full archive on <a href="https://www.aarontao.com/"><b>aarontao.com</b></a> · all repos on <a href="https://github.com/HAONANTAO?tab=repositories"><b>GitHub</b></a></i></sub>
 </p>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <p align="center">
   <picture>
@@ -91,5 +93,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <sub><i>Aaron Tao &nbsp;·&nbsp; Melbourne 🇦🇺</i></sub>
+  <sub><i>Thanks for scrolling. 👋</i></sub><br/>
+  <sub><i>Looking for my first junior AI / full-stack role in <b>Melbourne</b> or remote AU.</i></sub><br/>
+  <sub><i>Aaron Tao &nbsp;·&nbsp; <a href="mailto:taoaaron5@gmail.com">taoaaron5@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/haonan-tao-aaron/">LinkedIn</a></i></sub>
 </p>

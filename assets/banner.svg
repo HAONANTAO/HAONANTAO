@@ -45,25 +45,29 @@
         <tspan x="170" fill="#f0f6fc" font-weight="700">Aaron Tao</tspan>
       </text>
       <text y="144">
-        <tspan x="60"  fill="#6e7681">role</tspan>
-        <tspan x="170" fill="#c9d1d9">AI Engineer · Full-Stack Builder</tspan>
+        <tspan x="60"  fill="#6e7681">based</tspan>
+        <tspan x="170" fill="#c9d1d9">Melbourne, AU  ·  </tspan>
+        <tspan fill="#7ee787" font-weight="700">Australian PR</tspan>
       </text>
       <text y="170">
-        <tspan x="60"  fill="#6e7681">based</tspan>
-        <tspan x="170" fill="#c9d1d9">Melbourne, AU</tspan>
+        <tspan x="60"  fill="#6e7681">edu</tspan>
+        <tspan x="170" fill="#c9d1d9">Monash B.CS  →  UniMelb Master of IT</tspan>
       </text>
       <text y="196">
-        <tspan x="60"  fill="#6e7681">focus</tspan>
-        <tspan x="170" fill="#c9d1d9">RAG systems · LLM agents · production AI</tspan>
+        <tspan x="60"  fill="#6e7681">building</tspan>
+        <tspan x="170" fill="#c9d1d9">MERN + AI products</tspan>
       </text>
       <text y="222">
-        <tspan x="60"  fill="#6e7681">status</tspan>
-        <tspan x="170" fill="#7ee787" font-weight="700">shipping</tspan>
+        <tspan x="60"  fill="#6e7681">vibe</tspan>
+        <tspan x="170" fill="#a371f7" font-weight="700">vibe coding the modern web</tspan>
       </text>
     </g>
 
-    <!-- Ready prompt with blinking cursor -->
-    <text x="60" y="254" class="mono" font-size="15" fill="#7ee787">$</text>
-    <rect class="cursor" x="78" y="242" width="9" height="14" fill="#c9d1d9"/>
+    <!-- Shipping prompt with blinking cursor -->
+    <text x="60" y="254" class="mono" font-size="15">
+      <tspan fill="#7ee787">$</tspan>
+      <tspan fill="#7ee787" dx="8" font-weight="700">shipping...</tspan>
+    </text>
+    <rect class="cursor" x="188" y="242" width="9" height="14" fill="#c9d1d9"/>
   </g>
 </svg>

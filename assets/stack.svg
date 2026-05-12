@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Stack — MERN + AI">
+  <defs>
+    <clipPath id="stack-window">
+      <rect width="900" height="220" rx="10"/>
+    </clipPath>
+    <style>
+      .mono { font-family: 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#stack-window)">
+    <!-- Window body -->
+    <rect width="900" height="220" fill="#0d1117"/>
+
+    <!-- Title bar -->
+    <rect width="900" height="36" fill="#161b22"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#21262d" stroke-width="1"/>
+
+    <!-- Traffic lights -->
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="18" r="6" fill="#28c840"/>
+
+    <!-- Title bar text -->
+    <text x="450" y="23" text-anchor="middle" class="mono"
+          font-size="12" fill="#6e7681" letter-spacing="0.4">
+      aaron@melbourne: ~/stack
+    </text>
+
+    <!-- $ tree ~/stack -->
+    <text x="60" y="76" class="mono" font-size="15">
+      <tspan fill="#7ee787">$</tspan>
+      <tspan fill="#c9d1d9" dx="8">tree</tspan>
+      <tspan fill="#79c0ff" dx="6">~/stack</tspan>
+    </text>
+
+    <!-- stack/ root -->
+    <text x="60" y="106" class="mono" font-size="15" fill="#79c0ff" font-weight="700">stack/</text>
+
+    <!-- Tree output -->
+    <g class="mono" font-size="15">
+      <text y="134">
+        <tspan x="60"  fill="#6e7681">├──</tspan>
+        <tspan x="100" fill="#f0f6fc" font-weight="700">frontend</tspan>
+        <tspan x="230" fill="#6e7681">→</tspan>
+        <tspan x="260" fill="#c9d1d9">React  ·  Next.js</tspan>
+      </text>
+      <text y="160">
+        <tspan x="60"  fill="#6e7681">├──</tspan>
+        <tspan x="100" fill="#f0f6fc" font-weight="700">backend</tspan>
+        <tspan x="230" fill="#6e7681">→</tspan>
+        <tspan x="260" fill="#c9d1d9">Node  ·  Express  ·  MongoDB</tspan>
+      </text>
+      <text y="186">
+        <tspan x="60"  fill="#6e7681">├──</tspan>
+        <tspan x="100" fill="#f0f6fc" font-weight="700">ai</tspan>
+        <tspan x="230" fill="#6e7681">→</tspan>
+        <tspan x="260" fill="#c9d1d9">LangChain  ·  OpenAI  ·  </tspan>
+        <tspan fill="#a371f7" font-weight="700">RAG</tspan>
+      </text>
+      <text y="212">
+        <tspan x="60"  fill="#6e7681">└──</tspan>
+        <tspan x="100" fill="#f0f6fc" font-weight="700">deploy</tspan>
+        <tspan x="230" fill="#6e7681">→</tspan>
+        <tspan x="260" fill="#c9d1d9">Vercel</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
