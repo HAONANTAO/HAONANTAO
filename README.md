@@ -59,23 +59,22 @@
   <a href="https://github.com/HAONANTAO/DocuMind"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h2 align="center">🧩 JD Analyzer <sub><i>— side project, live on Chrome Web Store</i></sub></h2>
+<h2 align="center">🧩 Chrome Extensions <sub><i>— shipped to the Web Store</i></sub></h2>
 
 <p align="center">
-  <i>Chrome extension that scores your resume against any job description in one click.</i><br/>
-  <sub><b>Design choice:</b> BYO OpenAI key, zero backend — users' resumes never touch my server.</sub>
+  <sub>Both are <b>BYO API key</b>, zero backend — your data goes to the provider you pick, and nowhere else.</sub>
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba">
-    <img src="./assets/jd.png" width="640" alt="JD Analyzer – Resume vs JD scoring" />
-  </a>
+  <b>✦ EchoReply</b> — AI sidebar for Gmail. Decodes what the sender really wants, generates three reply drafts (🎩 Professional / 🤝 Warm / ⚡ Confident), and tone-checks your own draft before you hit send. Works with Claude or OpenAI.<br/>
+  <a href="https://chromewebstore.google.com/detail/leibhmkahdofhfallekeoljmiajcjjlk"><img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Install EchoReply" /></a>
+  &nbsp;
+  <a href="https://github.com/HAONANTAO/EchoReply"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white" alt="EchoReply source" /></a>
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba">
-    <img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install from Chrome Web Store" />
-  </a>
+  <b>📄 JD Analyzer</b> — Scores your resume against any job description in one click. Pulls the JD from the page, scores fit, surfaces missing keywords. OpenAI-powered.<br/>
+  <a href="https://chromewebstore.google.com/detail/ohoogdbggeapnlmhlimpffomihldkcba"><img src="https://img.shields.io/badge/Install-Chrome%20Web%20Store-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Install JD Analyzer" /></a>
 </p>
 
 <p align="center">
